@@ -1,0 +1,49 @@
+.navbar-collapse.collapse {
+}
+ul
+{
+list-style-type: none;
+padding: 0;
+margin: 0;
+float:left; width:33%;
+text-align: right;
+}
+
+li
+{
+background-repeat: no-repeat;
+background-position: 70% .4em;
+padding-right: 16px;
+
+}
+hr{width:300px;}
+
+html body div.container-fluid div.row div.col-sm-3 div.sidebar-module ol.list-unstyled
+{
+padding-top: 55px;
+text-align: center;
+font-weight: bold; !important;
+font-size: x-large;
+}
+html body div.container-fluid div.row div.col-sm-3 div.sidebar-module ol.list-unstyled li a
+{
+font-weight: bold; !important;
+}
+html body div.container-fluid div.row div.col-sm-3 div.sidebar-module ol.list-unstyled li a:hover
+ {
+ text-decoration: none;
+}
+
+.highcharts-title{
+
+font-size: 25px;
+fill: #1157c0;
+
+}
+
+.highcharts-anchor
+{
+font-size: small;
+fill: #ba1818;
+
+}

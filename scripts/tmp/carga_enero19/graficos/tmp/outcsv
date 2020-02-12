@@ -1,0 +1,339 @@
+SELECT FAMILIA from SIGAD_FAMILIAActividades Físicas y Deportivas 
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Actividades Físicas y Deportivas %' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Actividades Físicas y Deportivas %'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Actividades Físicas y Deportivas %'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 0consulta vaciaAdministración y Gestión 
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Administración y Gestión %' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Administración y Gestión %'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Administración y Gestión %'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 3Agraria
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Agraria%' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Agraria%'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Agraria%'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 3Artes Gráficas 
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Artes Gráficas %' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Artes Gráficas %'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Artes Gráficas %'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 3Artes y Artesanías 
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Artes y Artesanías %' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Artes y Artesanías %'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Artes y Artesanías %'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 0consulta vaciaComercio y Marketing
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Comercio y Marketing%' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Comercio y Marketing%'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Comercio y Marketing%'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 3Edificación y Obra Civil
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Edificación y Obra Civil%' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Edificación y Obra Civil%'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Edificación y Obra Civil%'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 3Electricidad y Electrónica 
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Electricidad y Electrónica %' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Electricidad y Electrónica %'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Electricidad y Electrónica %'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 3Energía y Agua
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Energía y Agua%' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Energía y Agua%'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Energía y Agua%'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 1Fabricación Mecánica 
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Fabricación Mecánica %' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Fabricación Mecánica %'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Fabricación Mecánica %'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 3Hostelería y Turismo 
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Hostelería y Turismo %' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Hostelería y Turismo %'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Hostelería y Turismo %'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 3Imagen Personal
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Imagen Personal%' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Imagen Personal%'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Imagen Personal%'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 3Imagen y Sonido 
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Imagen y Sonido %' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Imagen y Sonido %'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Imagen y Sonido %'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 2Industrias Alimentarias 
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Industrias Alimentarias %' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Industrias Alimentarias %'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Industrias Alimentarias %'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 2Industrias Extractivas 
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Industrias Extractivas %' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Industrias Extractivas %'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Industrias Extractivas %'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 1Informática y Comunicaciones
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Informática y Comunicaciones%' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Informática y Comunicaciones%'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Informática y Comunicaciones%'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 3Instalación y Mantenimiento 
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Instalación y Mantenimiento %' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Instalación y Mantenimiento %'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Instalación y Mantenimiento %'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 3Madera, Mueble y Corcho 
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Madera, Mueble y Corcho %' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Madera, Mueble y Corcho %'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Madera, Mueble y Corcho %'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 3Marítimo–Pesquera
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Marítimo–Pesquera%' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Marítimo–Pesquera%'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Marítimo–Pesquera%'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 0consulta vaciaQuímica
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Química%' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Química%'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Química%'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 0consulta vaciaSanidad
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Sanidad%' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Sanidad%'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Sanidad%'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 2Seguridad y Medio Ambiente
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Seguridad y Medio Ambiente%' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Seguridad y Medio Ambiente%'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Seguridad y Medio Ambiente%'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 1Servicios Socioculturales y a la Comunidad 
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Servicios Socioculturales y a la Comunidad %' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Servicios Socioculturales y a la Comunidad %'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Servicios Socioculturales y a la Comunidad %'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 1Textil, Confección y Piel
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Textil, Confección y Piel%' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Textil, Confección y Piel%'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Textil, Confección y Piel%'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 3Transporte y Mantenimiento de Vehículos 
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Transporte y Mantenimiento de Vehículos %' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Transporte y Mantenimiento de Vehículos %'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Transporte y Mantenimiento de Vehículos %'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 3Vidrio y Cerámica
+
+SELECT t1.gz as 'Grado',t1.nal as 'Zaragoza', t2.nal as 'Huesca', t3.nal as 'Teruel'
+from
+(SELECT count(*) as nal, grado gz,sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Zaragoza' and sf.FAMILIA like '%Vidrio y Cerámica%' group by grado,familia) as t1 
+LEFT JOIN
+(SELECT count(*) as nal, grado gh, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Huesca' and sf.FAMILIA like '%Vidrio y Cerámica%'group by grado,familia) as t2 
+ON t1.gz=t2.gh 
+LEFT JOIN
+(SELECT count(*) as nal, grado gt, sf.FAMILIA familia from GIR_MATRICULA gm,GIR_CENTRO gc,SIGAD_FAMILIA sf,INCUAL_TITULO it where sf.CODIGO_FAMILIA=it.CODIGO_FAMILIA and gm.codigo_ciclo=it.CODIGO_TITULO_ARAGON and gm.num_matriculados=gc.iddenomcentro and gc.provincia='Teruel' and sf.FAMILIA like '%Vidrio y Cerámica%'group by grado,familia) as t3
+ON t1.gz=t3.gt
+
+
+numero de registros: 0consulta vacia

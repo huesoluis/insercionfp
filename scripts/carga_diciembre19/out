@@ -1,0 +1,1272 @@
+insert into usuarios values(0,'578012','d4aa1ac4fc227e6ce5350639db007bd6','tutor','ACALVES',DEFAULT,'3')
+usuario duplicado
+insert into usuarios values(0,'576935','5eb55eed2b807393330ff33664f0d4a2','tutor','ADG201',DEFAULT,'117')
+usuario duplicado
+insert into usuarios values(0,'576936','954ed8c5373c4e5f3f258108fbd9758e','tutor','ADG301',DEFAULT,'117')
+usuario duplicado
+insert into usuarios values(0,'583631','2c992e1584c2c6f6e3288fb5f8502308','tutor','AFD301',DEFAULT,'117')
+usuario duplicado
+insert into usuarios values(0,'574952','3ab6f9d42700de3391d75d2aac6e5c3d','tutor','AGUSTIN',DEFAULT,'114')
+usuario duplicado
+insert into usuarios values(0,'614955','06faec538761fae66845cf034e0561e3','tutor','AGUSTIN GOMEZ',DEFAULT,'114')
+usuario duplicado
+insert into usuarios values(0,'571131','dc71630aaec487982d997903bae750df','tutor','AGUTIEZ',DEFAULT,'110')
+usuario duplicado
+insert into usuarios values(0,'612813','3fae980e09b7df94f6c29a4017dd96d3','tutor','AITOR',DEFAULT,'68')
+usuario duplicado
+insert into usuarios values(0,'571134','ae7a14ce66105ccf61105352500cae29','tutor','AJARAUTA',DEFAULT,'110')
+usuario duplicado
+insert into usuarios values(0,'587819','c4aef74b3f563e1e253218449b92b69b','tutor','ALACUEVA',DEFAULT,'115')
+usuario duplicado
+insert into usuarios values(0,'574898','7cd276a94a41088eda8ae3a0ecd1a98b','tutor','ALBERTO',DEFAULT,'114')
+usuario duplicado
+insert into usuarios values(0,'572691','765b15bc25456a493075f8f20435e102','tutor','A.MONGE',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'577765','e14b5f5537f5a7132dff184c4ed27a62','tutor','ANASANCLEMENTE',DEFAULT,'13')
+usuario duplicado
+insert into usuarios values(0,'574896','202cb962ac59075b964b07152d234b70','tutor','ANJ',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'574857','e74992f835d997268f7e5f504386fe8c','tutor','A.PRIOR',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'572272','9dd39387e2892966b94fa7c89444ce27','tutor','A.SANCHEZ',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'582597','e5f88c16d3537bafe64ee740c4098778','tutor','ASUNCIÓN',DEFAULT,'68')
+usuario duplicado
+insert into usuarios values(0,'570231','81dc9bdb52d04dc20036dbd8313ed055','tutor','BDEAYERBE',DEFAULT,'105')
+usuario duplicado
+insert into usuarios values(0,'575482','9fcefe9a58383e01d36b3e5d03bfb619','tutor','BERNADPOLO',DEFAULT,'54')
+usuario duplicado
+insert into usuarios values(0,'575574','197f489028e73ad84e7d5725141eb929','tutor','CABAÑAS2',DEFAULT,'51')
+usuario duplicado
+insert into usuarios values(0,'575574','197f489028e73ad84e7d5725141eb929','tutor','CABAÑAS2',DEFAULT,'51')
+usuario duplicado
+insert into usuarios values(0,'597343','a96440e0894d8bf0511da06753aa78bf','tutor','CARMENMARCO',DEFAULT,'106')
+usuario duplicado
+insert into usuarios values(0,'617233','af736e8a52e4a1789a9de3899237543d','tutor','CARMINA',DEFAULT,'381')
+usuario duplicado
+insert into usuarios values(0,'569969','56d4ff91f4644b1eacb10d344fd24690','tutor','CASADO_AGA201',DEFAULT,'118')
+usuario duplicado
+insert into usuarios values(0,'598135','60f683486d25241f44ead1af340c899a','tutor','C.BELLOSO',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'575651','236bce03b0fd645607da68ee3e0fcb1a','tutor','CCAMACHOVT',DEFAULT,'33')
+usuario duplicado
+insert into usuarios values(0,'572191','883a88c3795539c955934ceb4fff011a','tutor','CCANAS',DEFAULT,'115')
+usuario duplicado
+insert into usuarios values(0,'573551','9b1c80cde1c717d5bf157c39a4934e9f','tutor','C.CASEDA',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'570891','26fdce45a7a46f9046d9ccab0dcfe26f','tutor','CCELEMIN',DEFAULT,'110')
+usuario duplicado
+insert into usuarios values(0,'582592','846c5132292f44d74d338dfaf7c27406','tutor','CESAR',DEFAULT,'68')
+usuario duplicado
+insert into usuarios values(0,'612814','9c9bb1b50942beb7d6343fac6aaf6c8a','tutor','CHARO',DEFAULT,'68')
+usuario duplicado
+insert into usuarios values(0,'574903','1e2e8a8497842d63877f17dda3a7fb95','tutor','COM201',DEFAULT,'117')
+usuario duplicado
+insert into usuarios values(0,'569511','b72f3cc38388c05fd96e02a6e6a0ac41','tutor','CONDES3JT',DEFAULT,'106')
+usuario duplicado
+insert into usuarios values(0,'574805','cbbf0b3980e49f7d771d4509418a1b7d','tutor','C.ORGAZ',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'572971','52312e76a979b132abbee94e1503461d','tutor','CPA(D)',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'572951','52312e76a979b132abbee94e1503461d','tutor','CPA(P)',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'572951','52312e76a979b132abbee94e1503461d','tutor','CPA(P)',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'572951','52312e76a979b132abbee94e1503461d','tutor','CPA(P)',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'572951','52312e76a979b132abbee94e1503461d','tutor','CPA(P)',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'572951','52312e76a979b132abbee94e1503461d','tutor','CPA(P)',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'572951','52312e76a979b132abbee94e1503461d','tutor','CPA(P)',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'572951','52312e76a979b132abbee94e1503461d','tutor','CPA(P)',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'572951','52312e76a979b132abbee94e1503461d','tutor','CPA(P)',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'617313','52312e76a979b132abbee94e1503461d','tutor','CPA(PR)',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'617313','52312e76a979b132abbee94e1503461d','tutor','CPA(PR)',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'576470','df07fe61e8b53054c0de88a0e3c0742f','tutor','DAG18',DEFAULT,'70')
+usuario duplicado
+insert into usuarios values(0,'572197','24bd4194a90be4a2ab92c89e39acf0a9','tutor','DBERRUECO',DEFAULT,'115')
+usuario duplicado
+insert into usuarios values(0,'572411','1f44ebfabbb703784f12a4e66632e720','tutor','DEBORAHSANZEJARQUE',DEFAULT,'60')
+usuario duplicado
+insert into usuarios values(0,'572411','1f44ebfabbb703784f12a4e66632e720','tutor','DEBORAHSANZEJARQUE',DEFAULT,'60')
+usuario duplicado
+insert into usuarios values(0,'572411','1f44ebfabbb703784f12a4e66632e720','tutor','DEBORAHSANZEJARQUE',DEFAULT,'60')
+usuario duplicado
+insert into usuarios values(0,'572177','71d4174155858e6d03a61b17ec001714','tutor','DGENZOR',DEFAULT,'115')
+usuario duplicado
+insert into usuarios values(0,'572453','f23f49131315cdf064679db755c17364','tutor','DIEGOSANZ',DEFAULT,'841')
+usuario duplicado
+insert into usuarios values(0,'572453','f23f49131315cdf064679db755c17364','tutor','DIEGOSANZ',DEFAULT,'841')
+usuario duplicado
+insert into usuarios values(0,'572453','f23f49131315cdf064679db755c17364','tutor','DIEGOSANZ',DEFAULT,'841')
+usuario duplicado
+insert into usuarios values(0,'572453','f23f49131315cdf064679db755c17364','tutor','DIEGOSANZ',DEFAULT,'841')
+usuario duplicado
+insert into usuarios values(0,'200041','06a075578d14c599d21b6702779a25da','tutor','DMARINV',DEFAULT,'37')
+usuario duplicado
+insert into usuarios values(0,'200032','81dc9bdb52d04dc20036dbd8313ed055','tutor','DORERA',DEFAULT,'105')
+usuario duplicado
+insert into usuarios values(0,'574799','e95c40ae17cfe5262c7f9af4f3e34d45','tutor','EARTERO',DEFAULT,'13')
+usuario duplicado
+insert into usuarios values(0,'574208','c04d62b37b5d0c41a0f4f10e39d19495','tutor','ECASTILLOG',DEFAULT,'37')
+usuario duplicado
+insert into usuarios values(0,'575234','8be5b76f2f596fd22109595b24ad2a2c','tutor','ELE202',DEFAULT,'117')
+usuario duplicado
+insert into usuarios values(0,'574904','cf074a71c1f3b144cdb533ac2e142feb','tutor','ELE203',DEFAULT,'117')
+usuario duplicado
+insert into usuarios values(0,'592349','ea3749d13249ce1d15ff7b4f7b9bd03b','tutor','ELE50009221',DEFAULT,'102')
+usuario duplicado
+insert into usuarios values(0,'574202','262c499d3a63810dc269faa4430695de','tutor','EMOSOH',DEFAULT,'37')
+usuario duplicado
+insert into usuarios values(0,'587891','85ed18917d35edaa2a8a1cf27ca7707d','tutor','ESOLDEVILLA',DEFAULT,'115')
+usuario duplicado
+insert into usuarios values(0,'586851','cc386c88e053cb899cbc56afe0dde3cf','tutor','EUSIETO',DEFAULT,'321')
+usuario duplicado
+insert into usuarios values(0,'574566','406c8a2709ecd790e9a7c27d1b8eebd1','tutor','FCOJPEREZ',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'609055','bcad67e99775b9f2b2eb8135e637fbb9','tutor','FGM19',DEFAULT,'70')
+usuario duplicado
+insert into usuarios values(0,'609055','bcad67e99775b9f2b2eb8135e637fbb9','tutor','FGM19',DEFAULT,'70')
+usuario duplicado
+insert into usuarios values(0,'611943','9333661e52989fcaba03fb680132eab0','tutor','FGM20',DEFAULT,'70')
+usuario duplicado
+insert into usuarios values(0,'200033','81dc9bdb52d04dc20036dbd8313ed055','tutor','FGOMEZ',DEFAULT,'105')
+usuario duplicado
+insert into usuarios values(0,'583632','b3359be83e1e6409b035561c240704c7','tutor','FPB102',DEFAULT,'117')
+usuario duplicado
+insert into usuarios values(0,'583635','0f9e961be1f289253f57f58c62190252','tutor','FPB104',DEFAULT,'117')
+usuario duplicado
+insert into usuarios values(0,'612954','ef811a5b5abf9f057b4468a0593a6445','tutor','FPB106SILOS',DEFAULT,'117')
+usuario duplicado
+insert into usuarios values(0,'574900','33890eb5696da61f3a9d7334d00202f0','tutor','FPB109',DEFAULT,'117')
+usuario duplicado
+insert into usuarios values(0,'574802','b95048ad7bf17aea42d1b995c6633492','tutor','F.PEREZ',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'576457','28be0a94e5e78b684a91c4c9393f241f','tutor','FRJAVIER',DEFAULT,'85')
+usuario duplicado
+insert into usuarios values(0,'572195','d2d2d7539c5e8edbdaa8d0014a3edd43','tutor','FRODRIGUEZ',DEFAULT,'115')
+usuario duplicado
+insert into usuarios values(0,'570237','f0264f8400d4d0b347742ebe580bf21d','tutor','FVALDEON',DEFAULT,'105')
+usuario duplicado
+insert into usuarios values(0,'571971','0a8ad867b8346b9b771a0c347425d4e4','tutor','G.ANGOS',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'604173','0639a0ac01a7f7bc5d6e0d63c35d5431','tutor','G.BERNAL',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'582167','8c1506244cdc16b1ead40d5addf77267','tutor','GLORIAFUERTES',DEFAULT,'27')
+usuario duplicado
+insert into usuarios values(0,'582167','8c1506244cdc16b1ead40d5addf77267','tutor','GLORIAFUERTES',DEFAULT,'27')
+usuario duplicado
+insert into usuarios values(0,'582167','8c1506244cdc16b1ead40d5addf77267','tutor','GLORIAFUERTES',DEFAULT,'27')
+usuario duplicado
+insert into usuarios values(0,'582167','8c1506244cdc16b1ead40d5addf77267','tutor','GLORIAFUERTES',DEFAULT,'27')
+usuario duplicado
+insert into usuarios values(0,'614956','f2b2122208a64bdd245bd1d1ec42b6f2','tutor','GORKA SANZ',DEFAULT,'114')
+usuario duplicado
+insert into usuarios values(0,'580778','1c953e9905a217c0d96cfda7bb9fe3cb','tutor','HDD',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'572777','fcf35a42d62f3fb0d08e3f8adfe8451f','tutor','HERMINIOC',DEFAULT,'113')
+usuario duplicado
+insert into usuarios values(0,'572777','fcf35a42d62f3fb0d08e3f8adfe8451f','tutor','HERMINIOC',DEFAULT,'113')
+usuario duplicado
+insert into usuarios values(0,'574810','db4ea1bc4ae15aff786447fadd76df01','tutor','J.ALCALDE',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'572176','bfac678ba764e30ebd0c8ce176d30bd6','tutor','JARNADILLO',DEFAULT,'115')
+usuario duplicado
+insert into usuarios values(0,'574821','2bf4621f887eed1a4a69190c8b7d5c03','tutor','JGH18',DEFAULT,'48')
+usuario duplicado
+insert into usuarios values(0,'608413','bc2ddfb4c79437a5e777ed0069cb011c','tutor','JIRODRIGUEZ',DEFAULT,'115')
+usuario duplicado
+insert into usuarios values(0,'588627','d467e8ed9774acc08d288b506a536c0b','tutor','JJESCRICHE',DEFAULT,'581')
+usuario duplicado
+insert into usuarios values(0,'575532','84e3a8144301a98cc2725e40dd719059','tutor','J.MARTIN',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'572271','e9ba2c4468e07ded529a2239b1d86835','tutor','JM.LAMARCA',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'572192','ada95a42b2bccfbb602195fd0af31eb8','tutor','JMNAVARRO',DEFAULT,'115')
+usuario duplicado
+insert into usuarios values(0,'574843','1cde6f9791b208365137e972efb01f55','tutor','JOAQUINC',DEFAULT,'114')
+usuario duplicado
+insert into usuarios values(0,'574873','7897f6dd85475fcdcb79755593fba68a','tutor','JOSÉ',DEFAULT,'114')
+usuario duplicado
+insert into usuarios values(0,'571657','ce10f5f7e3fcfb9c60be47be9640ec0e','tutor','LACUEVA',DEFAULT,'116')
+usuario duplicado
+insert into usuarios values(0,'573854','bb2ca56583492bf69473568d25847fc1','tutor','L.BERZOSA',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'575315','407972f5ae7ef6dde09ed08c888fe15d','tutor','LOURDES',DEFAULT,'54')
+usuario duplicado
+insert into usuarios values(0,'574899','5379f00a1541fd880b4b4613a77292a9','tutor','LUIS PECINA',DEFAULT,'114')
+usuario duplicado
+insert into usuarios values(0,'573735','e44b7494b61403dc6010b6fb4699dbf4','tutor','LULAC85',DEFAULT,'13')
+usuario duplicado
+insert into usuarios values(0,'577386','202cb962ac59075b964b07152d234b70','tutor','LVJ',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'612833','70ca02eb6376e68ccc20af7702dec94c','tutor','Mª ÁNGELES',DEFAULT,'68')
+usuario duplicado
+insert into usuarios values(0,'575253','3683af9d6f6c06acee72992f2977f67e','tutor','MAL',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'574592','1e6d5cca0f466562b92ad2f937d2ca3f','tutor','MALMAZANC',DEFAULT,'37')
+usuario duplicado
+insert into usuarios values(0,'582562','d1d8ee2c5afd8e0e2357370f8a7cc772','tutor','MANUEL',DEFAULT,'68')
+usuario duplicado
+insert into usuarios values(0,'574891','8862b1a96bfd0177ce411a4b52707e76','tutor','MARIANOALCALDE',DEFAULT,'114')
+usuario duplicado
+insert into usuarios values(0,'612834','11a6d12b518c50150321aa9301acf191','tutor','MARTA',DEFAULT,'68')
+usuario duplicado
+insert into usuarios values(0,'574561','c208cf068ac769c01dcdf4decc77dc16','tutor','MARTAGARCIA',DEFAULT,'33')
+usuario duplicado
+insert into usuarios values(0,'588628','d6baf5bef92a5beda7f05580621cec9d','tutor','MCARRASCON',DEFAULT,'581')
+usuario duplicado
+insert into usuarios values(0,'570253','81dc9bdb52d04dc20036dbd8313ed055','tutor','MCIBAÑEZ',DEFAULT,'105')
+usuario duplicado
+insert into usuarios values(0,'582593','27a4343e17222e139e2c8b9f1f5692a1','tutor','MERCEDES',DEFAULT,'68')
+usuario duplicado
+insert into usuarios values(0,'574872','1e98d8fbb65414debdf303f282747163','tutor','MIGUELANGEL',DEFAULT,'114')
+usuario duplicado
+insert into usuarios values(0,'574652','2dd9232f324c7878f8453a2698410d8f','tutor','MPG18',DEFAULT,'70')
+usuario duplicado
+insert into usuarios values(0,'574537','df3c28fac4eab56b02ff09695bbadd00','tutor','NANDY',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'574823','6864677c80e7973c9694e4f27beeb95f','tutor','NINES PLO',DEFAULT,'114')
+usuario duplicado
+insert into usuarios values(0,'572511','0f230c5566d0812402b1e940d5e4c2e1','tutor','ONLINE',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'572511','0f230c5566d0812402b1e940d5e4c2e1','tutor','ONLINE',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'572511','0f230c5566d0812402b1e940d5e4c2e1','tutor','ONLINE',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'572511','0f230c5566d0812402b1e940d5e4c2e1','tutor','ONLINE',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'572511','0f230c5566d0812402b1e940d5e4c2e1','tutor','ONLINE',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'572511','0f230c5566d0812402b1e940d5e4c2e1','tutor','ONLINE',DEFAULT,'87')
+usuario duplicado
+insert into usuarios values(0,'575501','40f35830893d430ce1e702b87285afc9','tutor','O.RAMOS',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'574914','a1a4ff8d9c2dadf89044669b8a5b5f00','tutor','PABLO',DEFAULT,'114')
+usuario duplicado
+insert into usuarios values(0,'574808','49ff6c00f59609876e40c95aaa4b2a1c','tutor','P.CORDOVA',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'608134','a910b897daf197074620c27a12490716','tutor','PILAR PRIETO',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'575655','4d508b67e15035883840d82cbed5d735','tutor','PPORTOLES',DEFAULT,'33')
+usuario duplicado
+insert into usuarios values(0,'607756','e7aa155e2d40993a885efa86c5dae274','tutor','RJULIANR',DEFAULT,'37')
+usuario duplicado
+insert into usuarios values(0,'570951','007d4c60efc9aa09cbcbe1cae1efa9c3','tutor','RPALACIOS',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'597335','8a100434f36f446605ab07ec2a4fd547','tutor','RSANCHOLO',DEFAULT,'110')
+usuario duplicado
+insert into usuarios values(0,'576465','55e8e63b2a8f7cb1f3cebf11a4f13f15','tutor','RSJ18',DEFAULT,'70')
+usuario duplicado
+insert into usuarios values(0,'570088','890c70f2b4a7e3d765a76980060b1854','tutor','RULLAN',DEFAULT,'105')
+usuario duplicado
+insert into usuarios values(0,'581671','81dc9bdb52d04dc20036dbd8313ed055','tutor','SAGRARIO',DEFAULT,'105')
+usuario duplicado
+insert into usuarios values(0,'572991','6582b1b08f2a76747aa7a3a0d920df51','tutor','SAN201',DEFAULT,'117')
+usuario duplicado
+insert into usuarios values(0,'612957','51887b1c9ef76a11f87401ebfe1fd531','tutor','SAN304SILOS',DEFAULT,'117')
+usuario duplicado
+insert into usuarios values(0,'574192','affafbe96ab8006967c980c5e60ade59','tutor','SBERNADC',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'575654','a8b6e775e7a9a2df3e75ad37bbee7d2f','tutor','SESPES',DEFAULT,'33')
+usuario duplicado
+insert into usuarios values(0,'571151','cba0e3c0e162df965665b2609370dc7b','tutor','SJULVEZ',DEFAULT,'110')
+usuario duplicado
+insert into usuarios values(0,'574874','2a55f24a4853face60eac2a6c4f026f8','tutor','SONIAJ',DEFAULT,'114')
+usuario duplicado
+insert into usuarios values(0,'574681','138e273c5e1b2498bf4744f8c4bae414','tutor','STUNEZV',DEFAULT,'37')
+usuario duplicado
+insert into usuarios values(0,'574638','82e724fe43e41ee97b5a8eb61d45e76e','tutor','TMS18',DEFAULT,'70')
+usuario duplicado
+insert into usuarios values(0,'584131','6706524d9f96b1e1ba056b467588c4c6','tutor','TMV202(LOE)',DEFAULT,'117')
+usuario duplicado
+insert into usuarios values(0,'574912','cd316be3171ccc979e3a1082442fd259','tutor','TOMAS ARTAL',DEFAULT,'114')
+usuario duplicado
+insert into usuarios values(0,'574854','50447d199b69dc84278914ddb61739a8','tutor','TORRALBA',DEFAULT,'17')
+usuario duplicado
+insert into usuarios values(0,'582599','1f50a9317d35b8081574545c82df04b3','tutor','VANESA',DEFAULT,'68')
+usuario duplicado
+insert into usuarios values(0,'572851','6080aec108499192eee31160de6cbca6','tutor','V.AZNAR',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'574601','9a250527150ee07bb98df687906dcaf1','tutor','VSANFRANCISCOP',DEFAULT,'37')
+usuario duplicado
+insert into usuarios values(0,'200031','81dc9bdb52d04dc20036dbd8313ed055','tutor','VTORRES',DEFAULT,'105')
+usuario duplicado
+insert into usuarios values(0,'619213','71776ea303c3735d4c7a22f75d9fb94d','tutor','X4889541V',DEFAULT,'30')
+usuario duplicado
+insert into usuarios values(0,'579714','c154eab26c06dd496a03bbd6a9cad0b2','tutor','01102339H',DEFAULT,'22')
+usuario duplicado
+insert into usuarios values(0,'575435','35e7be92f85c1bbf6b6a394d461c3d17','tutor','02201297J',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'575975','9c96be8a7a640b07fcea6c3941785df7','tutor','02875522Q',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'579431','0776d99b3d81b769affb1c501c7a380e','tutor','03092130X',DEFAULT,'35')
+usuario duplicado
+insert into usuarios values(0,'581205','cc278bfc9ea671d0da5407c20bb1aeb3','tutor','03112721Q',DEFAULT,'15')
+usuario duplicado
+insert into usuarios values(0,'200053','5cee5c5e82dc2974c3d475f19909e541','tutor','04580421V',DEFAULT,'17')
+usuario duplicado
+insert into usuarios values(0,'608153','9b2687a7e4258621c300b098a4665e83','tutor','05695363B',DEFAULT,'9')
+usuario duplicado
+insert into usuarios values(0,'608153','9b2687a7e4258621c300b098a4665e83','tutor','05695363B',DEFAULT,'9')
+usuario duplicado
+insert into usuarios values(0,'608153','9b2687a7e4258621c300b098a4665e83','tutor','05695363B',DEFAULT,'9')
+usuario duplicado
+insert into usuarios values(0,'608153','9b2687a7e4258621c300b098a4665e83','tutor','05695363B',DEFAULT,'9')
+usuario duplicado
+insert into usuarios values(0,'200021','fe8fa4a6d9c98be3f4eda21e230e8d9a','tutor','05699208S',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'581371','f49e631dd0040ff9d8ff6da9d51bd11e','tutor','07217740H',DEFAULT,'742')
+usuario duplicado
+insert into usuarios values(0,'616613','79214b5836f9de01d659c58b8c977b90','tutor','07482413F',DEFAULT,'40')
+usuario duplicado
+insert into usuarios values(0,'575624','d9a5f00f2619cfbf9de2480509c58920','tutor','07520778P',DEFAULT,'13')
+usuario duplicado
+insert into usuarios values(0,'614413','6d7b3beb4516f50d8c1e0f4cf33b7b99','tutor','09120912D',DEFAULT,'86')
+usuario duplicado
+insert into usuarios values(0,'571653','ebe628785300f9ffdaf6863123c4ef88','tutor','09285737Q',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'200039','a23b9fd81b17ca1846a8c3d760f3dbb5','tutor','09438352A',DEFAULT,'13')
+usuario duplicado
+insert into usuarios values(0,'607844','b36ca5805e8d2f9ca9070e8dd1577721','tutor','09768650K',DEFAULT,'30')
+usuario duplicado
+insert into usuarios values(0,'571551','3390ac77461068ce36552c745b69d8c2','tutor','09776932T',DEFAULT,'76')
+usuario duplicado
+insert into usuarios values(0,'609373','8efa8102a56d8473206a6a412b8d537e','tutor','10182763L',DEFAULT,'25')
+usuario duplicado
+insert into usuarios values(0,'573991','441c93752c60a98a99deeccdb10e64a8','tutor','10838164N',DEFAULT,'74')
+usuario duplicado
+insert into usuarios values(0,'573717','8c4fd8f952310ecf5535c5bb827a368d','tutor','11958486G',DEFAULT,'83')
+usuario duplicado
+insert into usuarios values(0,'614673','edcdb39bcd7d186385ad3c4b9532d299','tutor','12345678Z',DEFAULT,'86')
+usuario duplicado
+insert into usuarios values(0,'610473','6d71dd38274c96ed9646f3985301c4e1','tutor','12396208J',DEFAULT,'47')
+usuario duplicado
+insert into usuarios values(0,'571718','6c526500cd80a5e0e3fd310e50d0c7f6','tutor','13102879D',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'571654','bd474c26d15d2e51447ae73848981846','tutor','13103167K',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'577862','421b3ac5c24ee992edd6087611c60dbb','tutor','13108749Z',DEFAULT,'83')
+usuario duplicado
+insert into usuarios values(0,'608115','b2c860f94112014db229393f95ad3c85','tutor','13136546G',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'1801851','d5adca4995a4507b6ba68409155cdbbf','tutor','13137149D',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'617173','f0aeb317564d872be7970e8c882a91ca','tutor','13141314B',DEFAULT,'86')
+usuario duplicado
+insert into usuarios values(0,'617175','a79fecbe7eb28179262a69e035d04061','tutor','13141316J',DEFAULT,'86')
+usuario duplicado
+insert into usuarios values(0,'607358','8e58897cf60c9a7d5943caeb6a9b4120','tutor','13511351R',DEFAULT,'86')
+usuario duplicado
+insert into usuarios values(0,'569676','1d02321337f65170958418eed85b2910','tutor','14953856S',DEFAULT,'104')
+usuario duplicado
+insert into usuarios values(0,'609677','fbf32fb848b1c22ad2f1899ec590ab03','tutor','15456037Z',DEFAULT,'14')
+usuario duplicado
+insert into usuarios values(0,'570475','8c0d39874f7284349b7a1ba8e5063e84','tutor','15830481H',DEFAULT,'90')
+usuario duplicado
+insert into usuarios values(0,'570475','8c0d39874f7284349b7a1ba8e5063e84','tutor','15830481H',DEFAULT,'90')
+usuario duplicado
+insert into usuarios values(0,'580051','ef3a29dafe47cfbefdddea164ae6eb13','tutor','15929784F',DEFAULT,'19')
+usuario duplicado
+insert into usuarios values(0,'610493','c3e990164654a428402d3a7d912f892e','tutor','15942658R',DEFAULT,'81')
+usuario duplicado
+insert into usuarios values(0,'575373','f0b957182202930c8fd4df67e719f5ef','tutor','16012566N',DEFAULT,'58')
+usuario duplicado
+insert into usuarios values(0,'618773','ec56826716592d23e319fa049d13ce49','tutor','16541273H',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'200024','7b4934df4749f8c97783472e4f12c614','tutor','16599867P',DEFAULT,'94')
+usuario duplicado
+insert into usuarios values(0,'616913','06cf1c1a22d64d58a241ef44666b7a76','tutor','16606166M',DEFAULT,'3')
+usuario duplicado
+insert into usuarios values(0,'607377','6b1cbab950d06e379dd4713c1868e7f4','tutor','16607568G',DEFAULT,'45')
+usuario duplicado
+insert into usuarios values(0,'573752','c153ea900758b94bd95db250b3e0d9f3','tutor','16615256X',DEFAULT,'103')
+usuario duplicado
+insert into usuarios values(0,'583271','10d26e7df557b166120114164aaf3b18','tutor','16792775S',DEFAULT,'71')
+usuario duplicado
+insert into usuarios values(0,'598654','959d586223a5f6069cd9949f2ddfbca0','tutor','16801430E',DEFAULT,'101')
+usuario duplicado
+insert into usuarios values(0,'575997','877eee6b430efc83d1cbfac5917f5025','tutor','16811940K',DEFAULT,'85')
+usuario duplicado
+insert into usuarios values(0,'609560','9623b87ae23db7e8f4c3b53c6ae3e70e','tutor','16812185J',DEFAULT,'45')
+usuario duplicado
+insert into usuarios values(0,'607840','bb70672f5dacc7045ae139c9029bd60f','tutor','16812546Y',DEFAULT,'61')
+usuario duplicado
+insert into usuarios values(0,'570151','1feb610c716989e7a084ee240ea919f3','tutor','17139472X',DEFAULT,'109')
+usuario duplicado
+insert into usuarios values(0,'200070','2249d53adb9cedd491f5fdcf5c4c442e','tutor','17151286W',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'574032','f6eba83d3438f243ce478269d49a2f7c','tutor','17155639P',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'578575','297a4f2d2ac85b23ece0f2efc56aad04','tutor','17158803K',DEFAULT,'97')
+usuario duplicado
+insert into usuarios values(0,'578575','297a4f2d2ac85b23ece0f2efc56aad04','tutor','17158803K',DEFAULT,'97')
+usuario duplicado
+insert into usuarios values(0,'574762','597f9625a2b8670f26935b44df4cf318','tutor','17161948S',DEFAULT,'85')
+usuario duplicado
+insert into usuarios values(0,'574233','919a11e09c973965d34d03f7f6b1053b','tutor','17162968T',DEFAULT,'80')
+usuario duplicado
+insert into usuarios values(0,'582951','8356a78654ae09a91f1bd0d604cf2fad','tutor','17207932E',DEFAULT,'56')
+usuario duplicado
+insert into usuarios values(0,'573814','dc1d2194b234964ed6b54a99696e3cbd','tutor','17212536A',DEFAULT,'56')
+usuario duplicado
+insert into usuarios values(0,'573814','dc1d2194b234964ed6b54a99696e3cbd','tutor','17212536A',DEFAULT,'56')
+usuario duplicado
+insert into usuarios values(0,'570434','1af377b92cbda4ddc4a436da37f0229e','tutor','17212993T',DEFAULT,'76')
+usuario duplicado
+insert into usuarios values(0,'570201','c9702eec647361d04c4503272328da1e','tutor','17214619Q',DEFAULT,'76')
+usuario duplicado
+insert into usuarios values(0,'574311','d98abd530c98c31d582e52a98fe5e8e6','tutor','17215371D',DEFAULT,'76')
+usuario duplicado
+insert into usuarios values(0,'570613','2f7249d19a77927a69a9efedb4b7bc04','tutor','17220054T',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'578331','631f1c057f7b4040b6b5f383fe68c94f','tutor','17220733N',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'607355','491dead22472dbd44439ea389aee3e69','tutor','17221821L',DEFAULT,'111')
+usuario duplicado
+insert into usuarios values(0,'200047','20729d1c69f0d5c6d3af4c9f98147c9c','tutor','17221974B',DEFAULT,'78')
+usuario duplicado
+insert into usuarios values(0,'574392','9f73144d71347e125ef7207a5b64f27f','tutor','17436504C',DEFAULT,'80')
+usuario duplicado
+insert into usuarios values(0,'578851','b84a4fdfdad64ca4ddfed8c10a0f569d','tutor','17693041S',DEFAULT,'85')
+usuario duplicado
+insert into usuarios values(0,'595533','d8393c830e25ef4f67aec25c0e86d54a','tutor','17693453J',DEFAULT,'99')
+usuario duplicado
+insert into usuarios values(0,'576102','6122e11a8afc6eba87ff97961d682c5f','tutor','17693696A',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'609613','8385fa761f419ddbfcce381325c8c241','tutor','17695766A',DEFAULT,'16')
+usuario duplicado
+insert into usuarios values(0,'572911','82729f9ba8fa8684ff9d3894bddb7ef3','tutor','17703101R',DEFAULT,'116')
+usuario duplicado
+insert into usuarios values(0,'569539','e30d207eb9cb43dce46535a42b88e2e8','tutor','17703229Z',DEFAULT,'104')
+usuario duplicado
+insert into usuarios values(0,'1802717','14291ea442804d937c70caae7e7e0369','tutor','17706751V',DEFAULT,'44')
+usuario duplicado
+insert into usuarios values(0,'1802717','14291ea442804d937c70caae7e7e0369','tutor','17706751V',DEFAULT,'44')
+usuario duplicado
+insert into usuarios values(0,'1802263','b031e0e170f86556f6e794bd3ad4e143','tutor','17711216C',DEFAULT,'56')
+usuario duplicado
+insert into usuarios values(0,'576294','5c75a901ca5f5f28e73162152f7fdcd7','tutor','17711813L',DEFAULT,'78')
+usuario duplicado
+insert into usuarios values(0,'574151','867ab0f22e3b95787be26b67e4ad14c5','tutor','17712298K',DEFAULT,'58')
+usuario duplicado
+insert into usuarios values(0,'581140','9b9fa2f5cdd9a24ed1f444e8299b6b84','tutor','17712715R',DEFAULT,'109')
+usuario duplicado
+insert into usuarios values(0,'200002','7b421fb6fdd722adc16518cf65e9205a','tutor','17713456Y',DEFAULT,'74')
+usuario duplicado
+insert into usuarios values(0,'573294','2d5d11af62bf1e61b4b1e12c7dda5f0b','tutor','17717822W',DEFAULT,'25')
+usuario duplicado
+insert into usuarios values(0,'574251','bed3e99093258d1b9a909e21261e97b7','tutor','17720254L',DEFAULT,'80')
+usuario duplicado
+insert into usuarios values(0,'575393','e245abb6c58ec3c9035ec8c794b6b9b7','tutor','17725716F',DEFAULT,'74')
+usuario duplicado
+insert into usuarios values(0,'581212','be862165b6c38fdb7f83db42e831d7a5','tutor','17728363D',DEFAULT,'44')
+usuario duplicado
+insert into usuarios values(0,'610093','905520ea446c2e5d09f6718078dd1a33','tutor','17742897F',DEFAULT,'883')
+usuario duplicado
+insert into usuarios values(0,'1803676','4498eba2f2eff372917dfa218d3c705e','tutor','17746892T',DEFAULT,'29')
+usuario duplicado
+insert into usuarios values(0,'1803676','4498eba2f2eff372917dfa218d3c705e','tutor','17746892T',DEFAULT,'29')
+usuario duplicado
+insert into usuarios values(0,'1803676','4498eba2f2eff372917dfa218d3c705e','tutor','17746892T',DEFAULT,'29')
+usuario duplicado
+insert into usuarios values(0,'577271','2bb7a0b3fa9a2fba950d545731c49afa','tutor','17748299G',DEFAULT,'78')
+usuario duplicado
+insert into usuarios values(0,'611114','0f6122816baf6c79c7599d9320a1a077','tutor','17748867C',DEFAULT,'46')
+usuario duplicado
+insert into usuarios values(0,'573593','58e1fa2e7ebfd8730dbfe787e81c8f06','tutor','17753396H',DEFAULT,'52')
+usuario duplicado
+insert into usuarios values(0,'578541','486ca43a4cd314aaf7e0371287550ed1','tutor','17756110H',DEFAULT,'21')
+usuario duplicado
+insert into usuarios values(0,'569533','dba939dfd0d27b1b410daf7512177644','tutor','17760197B',DEFAULT,'107')
+usuario duplicado
+insert into usuarios values(0,'569533','dba939dfd0d27b1b410daf7512177644','tutor','17760197B',DEFAULT,'107')
+usuario duplicado
+insert into usuarios values(0,'569533','dba939dfd0d27b1b410daf7512177644','tutor','17760197B',DEFAULT,'107')
+usuario duplicado
+insert into usuarios values(0,'573411','6eb07d15016fe80388580de6ecfdd3bd','tutor','17761118N',DEFAULT,'76')
+usuario duplicado
+insert into usuarios values(0,'200008','1695d0ef9465b8bec0b4f0adf42f6e46','tutor','17762456Q',DEFAULT,'52')
+usuario duplicado
+insert into usuarios values(0,'617153','6b808d08885458414aede7a217c5ace6','tutor','17766721A',DEFAULT,'90')
+usuario duplicado
+insert into usuarios values(0,'569771','48d5010e198086a4d0d9cbd0ebbef88d','tutor','17767253Y',DEFAULT,'90')
+usuario duplicado
+insert into usuarios values(0,'200018','2f346030e3e32847d27683f2311b1896','tutor','17867781R',DEFAULT,'25')
+usuario duplicado
+insert into usuarios values(0,'1805073','4cdb2416f656a541f1e82de0a8c1d1ab','tutor','17868154Y',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'574232','43b88b1215caac05590985bc00c7ca21','tutor','17869900G',DEFAULT,'80')
+usuario duplicado
+insert into usuarios values(0,'1803312','8bf9a9a3d1daaf73db4612c59fd985cc','tutor','18003037V',DEFAULT,'17')
+usuario duplicado
+insert into usuarios values(0,'574853','84a5b8e6587e380c3dc9a953bba708e5','tutor','18006413N',DEFAULT,'17')
+usuario duplicado
+insert into usuarios values(0,'609399','2e9ada883cccb5ebf7cc2a6b93a690c7','tutor','18007894K',DEFAULT,'16')
+usuario duplicado
+insert into usuarios values(0,'577495','827ccb0eea8a706c4c34a16891f84e7b','tutor','18010548F',DEFAULT,'19')
+usuario duplicado
+insert into usuarios values(0,'574677','5b44cacb92cbf9e3f33d554a66439cdc','tutor','18010745C',DEFAULT,'14')
+usuario duplicado
+insert into usuarios values(0,'570171','b4f90d125e1134e6580315b6450c0ef1','tutor','18011826C',DEFAULT,'13')
+usuario duplicado
+insert into usuarios values(0,'574751','ee1e15d9fec50f89691693a95264a06d','tutor','18012232N',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'576245','e937a31a58ab1c541e86bdb9fac36bbf','tutor','18014160P',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'574913','9c62d20d3d42a9ddaf0fa021f19ac992','tutor','18014657E',DEFAULT,'89')
+usuario duplicado
+insert into usuarios values(0,'571275','7eb617df4c6ba86e09e8405659ae697b','tutor','18015883Y',DEFAULT,'96')
+usuario duplicado
+insert into usuarios values(0,'571275','7eb617df4c6ba86e09e8405659ae697b','tutor','18015883Y',DEFAULT,'96')
+usuario duplicado
+insert into usuarios values(0,'608235','2f0e38f4b6290e7ab0d094e4d7a81184','tutor','18016857',DEFAULT,'46')
+usuario duplicado
+insert into usuarios values(0,'577151','b1c7122ec7b8539e5b795a21403fe14b','tutor','18016902J',DEFAULT,'85')
+usuario duplicado
+insert into usuarios values(0,'573783','12414bc422baf36c8a1acdbf5283d5e3','tutor','18017865X',DEFAULT,'14')
+usuario duplicado
+insert into usuarios values(0,'575254','317add1165ec3d312988fd4210b13363','tutor','18020078S',DEFAULT,'13')
+usuario duplicado
+insert into usuarios values(0,'200038','99232bf1cdf8e3bbb4d8ef6ed3a0fb32','tutor','18020110R',DEFAULT,'3')
+usuario duplicado
+insert into usuarios values(0,'200038','99232bf1cdf8e3bbb4d8ef6ed3a0fb32','tutor','18020110R',DEFAULT,'13')
+usuario duplicado
+insert into usuarios values(0,'574951','a117b7cd3b08385e1772dc294e78871c','tutor','18021565F',DEFAULT,'89')
+usuario duplicado
+insert into usuarios values(0,'574113','ca8fb032b15cc070802c7bd6388308d2','tutor','18022332S',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'576093','be094acddf689041ca5c2a822a0eeac9','tutor','18022506M',DEFAULT,'17')
+usuario duplicado
+insert into usuarios values(0,'573904','dd2108ad4221346b3a69628ca8fc9718','tutor','18022900P',DEFAULT,'3')
+usuario duplicado
+insert into usuarios values(0,'200054','4182342df4bd270769ab79de5d5761d3','tutor','18023460Q',DEFAULT,'92')
+usuario duplicado
+insert into usuarios values(0,'608195','360de140fe6f272f178667edf09d3785','tutor','18023879K',DEFAULT,'21')
+usuario duplicado
+insert into usuarios values(0,'575392','20b304d6a1001561c7eeb999c6689fc1','tutor','18024686T',DEFAULT,'74')
+usuario duplicado
+insert into usuarios values(0,'573751','7b11560093bab431ee647dd501a38a2a','tutor','18025062P',DEFAULT,'3')
+usuario duplicado
+insert into usuarios values(0,'575617','14ef6e2cebabdbbcf6f4064f7d07fe02','tutor','18027567Y',DEFAULT,'96')
+usuario duplicado
+insert into usuarios values(0,'200001','6e2324896bfe1565b95fea3daf86c612','tutor','18029790K',DEFAULT,'74')
+usuario duplicado
+insert into usuarios values(0,'200043','540a141dc55b7c8b2e5def7ef6e31a76','tutor','18029968S',DEFAULT,'16')
+usuario duplicado
+insert into usuarios values(0,'576086','c44ed92b15b8ef53919d6417d426a23a','tutor','18030957S',DEFAULT,'17')
+usuario duplicado
+insert into usuarios values(0,'574838','0689cc4fb647b7358d53850b757afbe8','tutor','18033226F',DEFAULT,'1')
+usuario duplicado
+insert into usuarios values(0,'609653','937e3a61edc944525a3f455b65c73727','tutor','18033941D',DEFAULT,'14')
+usuario duplicado
+insert into usuarios values(0,'609556','8bd61dd5b445623a4a8f459e50d15f1e','tutor','18034235G',DEFAULT,'14')
+usuario duplicado
+insert into usuarios values(0,'1802499','dd619ca0690740fab58f3f57a0d888be','tutor','18034754V',DEFAULT,'13')
+usuario duplicado
+insert into usuarios values(0,'580575','5596e1865fac03c923b4225f41de3c1a','tutor','18035149K',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'200061','bb717b40d445a4abc12bd1ce56cf7121','tutor','18035203Y',DEFAULT,'17')
+usuario duplicado
+insert into usuarios values(0,'583691','d999b3febb89cf0c92025ea0e8503cee','tutor','18035290R',DEFAULT,'18')
+usuario duplicado
+insert into usuarios values(0,'583691','d999b3febb89cf0c92025ea0e8503cee','tutor','18035290R',DEFAULT,'18')
+usuario duplicado
+insert into usuarios values(0,'583691','d999b3febb89cf0c92025ea0e8503cee','tutor','18035290R',DEFAULT,'18')
+usuario duplicado
+insert into usuarios values(0,'578002','eeb4f9f711159ee7050838dba63505ab','tutor','18037058K',DEFAULT,'21')
+usuario duplicado
+insert into usuarios values(0,'573817','ed39bcd0e9ce34aea1e8536602958018','tutor','18038901R',DEFAULT,'402')
+usuario duplicado
+insert into usuarios values(0,'574172','ee39c4b805d6abc845d413618a699300','tutor','18039198E',DEFAULT,'5')
+usuario duplicado
+insert into usuarios values(0,'574172','ee39c4b805d6abc845d413618a699300','tutor','18039198E',DEFAULT,'5')
+usuario duplicado
+insert into usuarios values(0,'1802701','093f18c96d9f855bd1be3a1ea48558e4','tutor','18039473K',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'573736','7b3994f15369fb6c48742f169d5128d6','tutor','18040061B',DEFAULT,'3')
+usuario duplicado
+insert into usuarios values(0,'576453','41152e1f66b4e658d3dc51a59cadf4d4','tutor','18040127P',DEFAULT,'17')
+usuario duplicado
+insert into usuarios values(0,'617773','488e1d398ce9a011171b49a0d89ead2d','tutor','18041450C',DEFAULT,'14')
+usuario duplicado
+insert into usuarios values(0,'200037','ddfda4727691085030e5897d5d18f733','tutor','18041730R',DEFAULT,'3')
+usuario duplicado
+insert into usuarios values(0,'579716','aa9d95fee6291bc072dfd86b9748f09c','tutor','18042700M',DEFAULT,'22')
+usuario duplicado
+insert into usuarios values(0,'573675','649f774bcdd6171961c43a3d50f67109','tutor','18044636D',DEFAULT,'3')
+usuario duplicado
+insert into usuarios values(0,'618654','3f40b173a02b73c59b550778ed8b4c1b','tutor','18044895S',DEFAULT,'5')
+usuario duplicado
+insert into usuarios values(0,'609673','578b2969ecde66350122fd269e7d6ff5','tutor','18048096L',DEFAULT,'14')
+usuario duplicado
+insert into usuarios values(0,'608193','28189eef7fc1d7b36b6e1772510338ab','tutor','18050904K',DEFAULT,'21')
+usuario duplicado
+insert into usuarios values(0,'610873','ad0d405efa9cd45b1a23667505ed9ec8','tutor','18051746N',DEFAULT,'16')
+usuario duplicado
+insert into usuarios values(0,'616513','52cb51e6bbd796c8b240fad4f83c26ae','tutor','18053216X',DEFAULT,'13')
+usuario duplicado
+insert into usuarios values(0,'592034','e8b7a455b5e606a26b3f7ba29936e1e5','tutor','18054065P',DEFAULT,'96')
+usuario duplicado
+insert into usuarios values(0,'611113','8280a5f72bbcd0432db28824cecc6be8','tutor','18054462Z',DEFAULT,'46')
+usuario duplicado
+insert into usuarios values(0,'614678','ef4807e685400ee6436fbcc89b4e4a04','tutor','18054604H',DEFAULT,'2')
+usuario duplicado
+insert into usuarios values(0,'575593','51b8564b9b2877438ef22ec719aa40da','tutor','18054672V',DEFAULT,'7')
+usuario duplicado
+insert into usuarios values(0,'573715','c6dffb02147fd24d0bce27a870594d92','tutor','18057338S',DEFAULT,'3')
+usuario duplicado
+insert into usuarios values(0,'616673','c6c336e8719b3d2fe930e02d05c0ae7d','tutor','18062174K',DEFAULT,'16')
+usuario duplicado
+insert into usuarios values(0,'573674','9d6f6d847a38b2341008a3dc0b8485f3','tutor','18160584Z',DEFAULT,'341')
+usuario duplicado
+insert into usuarios values(0,'583653','c4221adbf0c425329f96973f0e0b849c','tutor','18162512X',DEFAULT,'18')
+usuario duplicado
+insert into usuarios values(0,'583653','c4221adbf0c425329f96973f0e0b849c','tutor','18162512X',DEFAULT,'18')
+usuario duplicado
+insert into usuarios values(0,'583653','c4221adbf0c425329f96973f0e0b849c','tutor','18162512X',DEFAULT,'18')
+usuario duplicado
+insert into usuarios values(0,'583653','c4221adbf0c425329f96973f0e0b849c','tutor','18162512X',DEFAULT,'18')
+usuario duplicado
+insert into usuarios values(0,'609633','7714a8103007c946efddf835e0ee62c0','tutor','18166056N',DEFAULT,'14')
+usuario duplicado
+insert into usuarios values(0,'575332','8f6d0e9620f991b292db50ecc471f641','tutor','18411335L',DEFAULT,'54')
+usuario duplicado
+insert into usuarios values(0,'580058','56c26ae311f1763d81041fa8f981b329','tutor','18416288G',DEFAULT,'58')
+usuario duplicado
+insert into usuarios values(0,'575394','0d35d3b85b9cf89a42b55f0fcc91b541','tutor','18416815W',DEFAULT,'58')
+usuario duplicado
+insert into usuarios values(0,'573774','74e25235892f3a877c0f4cd529711c4a','tutor','18418047S',DEFAULT,'71')
+usuario duplicado
+insert into usuarios values(0,'571271','4258e0f280fd44c8900aa0a481f1ab27','tutor','18418532V',DEFAULT,'106')
+usuario duplicado
+insert into usuarios values(0,'581187','ddf3ce1489ef5440bd609f5c8f61fa40','tutor','18419009B',DEFAULT,'32')
+usuario duplicado
+insert into usuarios values(0,'573597','128ddd698050c024dcb04bad2dae5d48','tutor','18419558P',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'578372','740b49bf4de9fc1096ad999f24d53754','tutor','18420802X',DEFAULT,'36')
+usuario duplicado
+insert into usuarios values(0,'573952','a587f92dcf1d179d91414dedf080df97','tutor','18421063H',DEFAULT,'35')
+usuario duplicado
+insert into usuarios values(0,'574458','817b859a6772160c0eadce6efa9aec22','tutor','18421598R',DEFAULT,'80')
+usuario duplicado
+insert into usuarios values(0,'576933','d65353eb058a5298a0fac000a46cd9da','tutor','18421900G',DEFAULT,'49')
+usuario duplicado
+insert into usuarios values(0,'608333','7c8316fcf7a77eceb187285b8336a556','tutor','18422947Q',DEFAULT,'28')
+usuario duplicado
+insert into usuarios values(0,'200058','20690b0b6a297428adab99a6366a41ab','tutor','18423443Y',DEFAULT,'36')
+usuario duplicado
+insert into usuarios values(0,'573111','234296103ec3b73aef88cb13bdba88db','tutor','18423572C',DEFAULT,'26')
+usuario duplicado
+insert into usuarios values(0,'576084','89f3e86e42d0c7b52f42e9b6a8d68b30','tutor','18424688D',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'1801084','51bc46c728401f934432f1526daa2aa2','tutor','18427737E',DEFAULT,'25')
+usuario duplicado
+insert into usuarios values(0,'580620','b1d235b876cff5583e74b0c004353563','tutor','18428430W',DEFAULT,'661')
+usuario duplicado
+insert into usuarios values(0,'581513','b63759011ea43af8f8b2b0b40b0a92d0','tutor','18428654L',DEFAULT,'32')
+usuario duplicado
+insert into usuarios values(0,'586616','297a4f2d2ac85b23ece0f2efc56aad04','tutor','18428964F',DEFAULT,'97')
+usuario duplicado
+insert into usuarios values(0,'571651','5765415f8f50e578d900765be3328651','tutor','18429098A',DEFAULT,'108')
+usuario duplicado
+insert into usuarios values(0,'610735','42f925a6db2dbf519dab1d3c40c43d43','tutor','18429814Y',DEFAULT,'36')
+usuario duplicado
+insert into usuarios values(0,'608113','2b4234390fa1132fad5eb22dbdfb1734','tutor','18430790Q',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'616535','a5ae5878e8a178629df43a0a60a2c121','tutor','18431250Q',DEFAULT,'32')
+usuario duplicado
+insert into usuarios values(0,'617953','be4a2d0628749ef253dde6f5f2812ad4','tutor','18431493Y',DEFAULT,'31')
+usuario duplicado
+insert into usuarios values(0,'617953','be4a2d0628749ef253dde6f5f2812ad4','tutor','18431493Y',DEFAULT,'31')
+usuario duplicado
+insert into usuarios values(0,'612013','1259af6f41c1c1de3994cdb2a6811883','tutor','18431794',DEFAULT,'30')
+usuario duplicado
+insert into usuarios values(0,'579313','36b0693448c2e99569317d22037b87ec','tutor','18432264H',DEFAULT,'75')
+usuario duplicado
+insert into usuarios values(0,'579313','36b0693448c2e99569317d22037b87ec','tutor','18432264H',DEFAULT,'75')
+usuario duplicado
+insert into usuarios values(0,'200059','7c35547429ea01460004ae9d31c1d815','tutor','18432308Q',DEFAULT,'36')
+usuario duplicado
+insert into usuarios values(0,'575371','7fc6646716ee37e9bc26217a79e25c42','tutor','18434907Q',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'574291','a15f0a97169be05e8f068fe1debd8611','tutor','18435325C',DEFAULT,'5')
+usuario duplicado
+insert into usuarios values(0,'610734','2595a7ff93b2df5ca0e866acccbb8b9d','tutor','18435792G',DEFAULT,'36')
+usuario duplicado
+insert into usuarios values(0,'582595','d133520e2c81cc3ca7dd7e6ddcd84727','tutor','18435956F',DEFAULT,'32')
+usuario duplicado
+insert into usuarios values(0,'608833','65ca8c68c40d40f75122cebb25cc1f87','tutor','18436226R',DEFAULT,'56')
+usuario duplicado
+insert into usuarios values(0,'581431','fef929a1131a248edff05a0fe51e14a4','tutor','18436568K',DEFAULT,'35')
+usuario duplicado
+insert into usuarios values(0,'1801188','f534914f6418bc253f2347c287bdd964','tutor','18439025V',DEFAULT,'742')
+usuario duplicado
+insert into usuarios values(0,'574771','15aa40f5f0541768f86a3cd7f6c372b3','tutor','18439222F',DEFAULT,'28')
+usuario duplicado
+insert into usuarios values(0,'616534','4760341d3943320ec1fe3ca4a125ad61','tutor','18442267Q',DEFAULT,'32')
+usuario duplicado
+insert into usuarios values(0,'581214','bb08792edcf8a54b0ae9eae27f63f8c0','tutor','18443557H',DEFAULT,'642')
+usuario duplicado
+insert into usuarios values(0,'569691','4063b0747269dcce37593d501a647412','tutor','18444394G',DEFAULT,'104')
+usuario duplicado
+insert into usuarios values(0,'200000','85d1d1e207987cbc5d329cec11b4c78f','tutor','18446201V',DEFAULT,'26')
+usuario duplicado
+insert into usuarios values(0,'611213','15ee5c296266e5b8e4f5618ccd1e8e96','tutor','18447174R',DEFAULT,'32')
+usuario duplicado
+insert into usuarios values(0,'575642','eca7dcb2a3ebe6d2e1e3e50ed3ace1e5','tutor','18447778F',DEFAULT,'33')
+usuario duplicado
+insert into usuarios values(0,'616593','b41317a601f5f42dd5d99f4f225d2331','tutor','18447972V',DEFAULT,'33')
+usuario duplicado
+insert into usuarios values(0,'575933','44167eab6d9d3d6f19fd2484eac7bdf1','tutor','18448319L',DEFAULT,'85')
+usuario duplicado
+insert into usuarios values(0,'584242','98f88cd7b77c5a14ec802baa11f875d6','tutor','18449180Y',DEFAULT,'55')
+usuario duplicado
+insert into usuarios values(0,'573711','8633ede029ceec38b97e75048db6bfca','tutor','18449351Q',DEFAULT,'108')
+usuario duplicado
+insert into usuarios values(0,'612693','21a258e42a324f34413f658a8454b0cb','tutor','18450229C',DEFAULT,'28')
+usuario duplicado
+insert into usuarios values(0,'585154','73e1bda6267dc706e78267e4fab23869','tutor','18452357D',DEFAULT,'54')
+usuario duplicado
+insert into usuarios values(0,'572671','416a6831d3a6cdaf6d6b511de23f0161','tutor','18984448H',DEFAULT,'11')
+usuario duplicado
+insert into usuarios values(0,'572671','416a6831d3a6cdaf6d6b511de23f0161','tutor','18984448H',DEFAULT,'11')
+usuario duplicado
+insert into usuarios values(0,'572671','416a6831d3a6cdaf6d6b511de23f0161','tutor','18984448H',DEFAULT,'11')
+usuario duplicado
+insert into usuarios values(0,'574731','ee243f4fb162d113294f113552f43248','tutor','18998302A',DEFAULT,'14')
+usuario duplicado
+insert into usuarios values(0,'1800191','2a692d1109be0e801817bae61dae8960','tutor','19991830T',DEFAULT,'402')
+usuario duplicado
+insert into usuarios values(0,'1801967','5107080cc36a82944c6000e627bbf9d5','tutor','20019854X',DEFAULT,'15')
+usuario duplicado
+insert into usuarios values(0,'578009','43869002f792015ac104f5581ff60d24','tutor','20845797T',DEFAULT,'39')
+usuario duplicado
+insert into usuarios values(0,'607633','329eb7dedf55f9e786eaceaf4a1ad0d7','tutor','22698825X',DEFAULT,'47')
+usuario duplicado
+insert into usuarios values(0,'574179','19340ad478c2db10f80105e8c2fac54a','tutor','22718815J',DEFAULT,'14')
+usuario duplicado
+insert into usuarios values(0,'200062','b69cefef08cb5d0a85f513e216ac369b','tutor','22719579H',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'581146','0f5ead48b494972ab4cf66cdae3b055c','tutor','24102018L',DEFAULT,'86')
+usuario duplicado
+insert into usuarios values(0,'575993','7eaffff34a60f68b1327bfa74d07c5ae','tutor','25131350D',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'573858','9b07fd0e6948a1bd7e2c06098e36dfb1','tutor','25132305K',DEFAULT,'92')
+usuario duplicado
+insert into usuarios values(0,'604273','0350cd82983a250206da7feeee43a977','tutor','25132355W',DEFAULT,'76')
+usuario duplicado
+insert into usuarios values(0,'1802148','e29ca04197c2953d9a798dacfe655032','tutor','25133187Y',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'610034','4c0edbcfce8e0d309b738f34dd338138','tutor','25136292Y',DEFAULT,'36')
+usuario duplicado
+insert into usuarios values(0,'608122','a1d890b9ef10666ac3337b62cd4f7096','tutor','25136927C',DEFAULT,'78')
+usuario duplicado
+insert into usuarios values(0,'200071','c50f56fefdb43b28ceee92903ede590c','tutor','25137254W',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'200030','b97ab197a06e8a7d76864d2fd59381fb','tutor','25142188Z',DEFAULT,'58')
+usuario duplicado
+insert into usuarios values(0,'574331','5fa5f2838191b8974058774bfc9f8df7','tutor','25146392D',DEFAULT,'76')
+usuario duplicado
+insert into usuarios values(0,'574797','49a821192ecd15b228ad4cca88e43c5f','tutor','25149074T',DEFAULT,'85')
+usuario duplicado
+insert into usuarios values(0,'574776','9e684073c34d29bc3fb7aa2f11b37e1e','tutor','25152528G',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'573778','c8d1c1f7fa4384da7478a29bd2a54162','tutor','25154238N',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'608414','b30e21f6d72a1a1125f241fed1908dc7','tutor','25164700D',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'616013','26882d3daa3e52960258a5467718d583','tutor','25167114P',DEFAULT,'85')
+usuario duplicado
+insert into usuarios values(0,'200065','2c995b09dcb82b7930e4be931206a54b','tutor','25167988P',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'200014','facf601a0b3fc876e9a4cfa14c9dad0e','tutor','25168783K',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'569551','79b832a962928f21e3af41a95d8ae173','tutor','25169002X',DEFAULT,'81')
+usuario duplicado
+insert into usuarios values(0,'580901','43768918ef1c1e945333d37c8dc309d0','tutor','25169247W',DEFAULT,'118')
+usuario duplicado
+insert into usuarios values(0,'574680','2c85e91964aa8b0bf491a4d2ad0ec235','tutor','25171322F',DEFAULT,'14')
+usuario duplicado
+insert into usuarios values(0,'200057','b756bd977ad3222dfe2b3dfa35258202','tutor','25172236R',DEFAULT,'801')
+usuario duplicado
+insert into usuarios values(0,'200057','b756bd977ad3222dfe2b3dfa35258202','tutor','25172236R',DEFAULT,'882')
+usuario duplicado
+insert into usuarios values(0,'574457','0b882136811592c67353e444b7f53f13','tutor','25172997A',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'607354','ec550d7154e4cc8bb6f38927701a932f','tutor','25174938N',DEFAULT,'111')
+usuario duplicado
+insert into usuarios values(0,'200034','14122053c4f2d1656c1ececf5a62e8aa','tutor','25175235X',DEFAULT,'76')
+usuario duplicado
+insert into usuarios values(0,'1803818','cd78704e6a1aeffcaa9addeed1fef45f','tutor','25175833X',DEFAULT,'38')
+usuario duplicado
+insert into usuarios values(0,'582594','c24cf6b6292b497e03043dc82af1194c','tutor','25176517G',DEFAULT,'42')
+usuario duplicado
+insert into usuarios values(0,'579312','e5727965b428291aa4e76198a3086bcb','tutor','25178113J',DEFAULT,'75')
+usuario duplicado
+insert into usuarios values(0,'616755','8ff84ca24a1b624b6194fd8034b7ddc3','tutor','25182035W',DEFAULT,'78')
+usuario duplicado
+insert into usuarios values(0,'617493','e4d91d551615c77c9610baac5e5504d7','tutor','25182261K',DEFAULT,'17')
+usuario duplicado
+insert into usuarios values(0,'200007','ca022229d5d629e20a63411564aa5c80','tutor','25182532Q',DEFAULT,'52')
+usuario duplicado
+insert into usuarios values(0,'200007','ca022229d5d629e20a63411564aa5c80','tutor','25182532Q',DEFAULT,'52')
+usuario duplicado
+insert into usuarios values(0,'608196','84f0b0376d0aba5071dc1cd3db5f8b4a','tutor','25185175Z',DEFAULT,'21')
+usuario duplicado
+insert into usuarios values(0,'608196','84f0b0376d0aba5071dc1cd3db5f8b4a','tutor','25185175Z',DEFAULT,'21')
+usuario duplicado
+insert into usuarios values(0,'607953','2cefd0ea38d509bba2ac77492d668673','tutor','25185422P',DEFAULT,'42')
+usuario duplicado
+insert into usuarios values(0,'200067','61816a86fdcff88a150a118bfc7d759d','tutor','25185743F',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'580200','7426bc0f0a00bd21df92aafb8974931c','tutor','25186339M',DEFAULT,'16')
+usuario duplicado
+insert into usuarios values(0,'603493','1ef17ddc52d42fd3a42d134142159bd3','tutor','25188302J',DEFAULT,'90')
+usuario duplicado
+insert into usuarios values(0,'571777','562c08acb4dbac1fff7822d72d724205','tutor','25190411Y',DEFAULT,'99')
+usuario duplicado
+insert into usuarios values(0,'571777','562c08acb4dbac1fff7822d72d724205','tutor','25190411Y',DEFAULT,'99')
+usuario duplicado
+insert into usuarios values(0,'607795','1763a8fbabec2b33b05c02a1706af6b0','tutor','25195547J',DEFAULT,'661')
+usuario duplicado
+insert into usuarios values(0,'200009','e4191623ed350cc7b8f720b755ab505a','tutor','25199001V',DEFAULT,'52')
+usuario duplicado
+insert into usuarios values(0,'584352','0b5dca123e54e49faf1d59c905a8a52d','tutor','25200818V',DEFAULT,'103')
+usuario duplicado
+insert into usuarios values(0,'611734','c9cae3d8887644a09f0c74bb7c8c5e6a','tutor','25201069S',DEFAULT,'41')
+usuario duplicado
+insert into usuarios values(0,'573492','f62a600f7b7405784782f01313bf2930','tutor','25355012L',DEFAULT,'111')
+usuario duplicado
+insert into usuarios values(0,'574953','6aa06335fcfaf9607d1fd3ee5dbf4af8','tutor','25427216A',DEFAULT,'89')
+usuario duplicado
+insert into usuarios values(0,'1800905','4f0375d3d757f8cf1ef0df95abcec500','tutor','25432778E',DEFAULT,'45')
+usuario duplicado
+insert into usuarios values(0,'609234','aed81f36ab8bda2c8e17004cfc072729','tutor','25433569P',DEFAULT,'75')
+usuario duplicado
+insert into usuarios values(0,'1803223','31c31175a285353d24d8c847e7659bf7','tutor','25435923Q',DEFAULT,'56')
+usuario duplicado
+insert into usuarios values(0,'1803223','31c31175a285353d24d8c847e7659bf7','tutor','25435923Q',DEFAULT,'56')
+usuario duplicado
+insert into usuarios values(0,'569679','be37fc9d65bffb90f785ed4ea43df321','tutor','25436052F',DEFAULT,'104')
+usuario duplicado
+insert into usuarios values(0,'575976','f872d906d0bd81bf924cd4933a94dda4','tutor','25436667R',DEFAULT,'101')
+usuario duplicado
+insert into usuarios values(0,'1804619','d914853ef35479ae8aac91f65b5bc3e9','tutor','25440142A',DEFAULT,'42')
+usuario duplicado
+insert into usuarios values(0,'616033','48104ee9f3ce23221e3d21bca5df607b','tutor','25442928Y',DEFAULT,'70')
+usuario duplicado
+insert into usuarios values(0,'616033','48104ee9f3ce23221e3d21bca5df607b','tutor','25442928Y',DEFAULT,'70')
+usuario duplicado
+insert into usuarios values(0,'577791','202cb962ac59075b964b07152d234b70','tutor','25443691X',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'609053','e926d63412d9309b9f4871103a837a05','tutor','25444560M',DEFAULT,'70')
+usuario duplicado
+insert into usuarios values(0,'574522','fe2d743559378006ce114fad94fbdbdf','tutor','25447348X',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'570241','e9b0c7b04c5d58c4a78b3bf194b317a2','tutor','25451068G',DEFAULT,'109')
+usuario duplicado
+insert into usuarios values(0,'572831','e1161b0a4463433160c43afb1ede5e2b','tutor','25452922H',DEFAULT,'110')
+usuario duplicado
+insert into usuarios values(0,'580517','2770015086ee10310dde0eee3433e059','tutor','25453109K',DEFAULT,'25')
+usuario duplicado
+insert into usuarios values(0,'613373','53e9ed852ece7750f4b9ea6843c6c971','tutor','25456268Y',DEFAULT,'722')
+usuario duplicado
+insert into usuarios values(0,'569698','e1f979ea2b94f4a754835ee9f85cf0d0','tutor','25460275B',DEFAULT,'104')
+usuario duplicado
+insert into usuarios values(0,'200050','576b1969536b164508b0dd5862ab71d1','tutor','25460382A',DEFAULT,'70')
+usuario duplicado
+insert into usuarios values(0,'591839','c3c2dc65292a1dd3d53c703d1d77a881','tutor','25460512H',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'585291','e480e68795edda07113f386f6c0c9f5d','tutor','25461151J',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'573296','adf3b9d3338fd5b0a771eb2ccf58b8a5','tutor','25461298E',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'588671','c018d3e98ceb15831f1b7dc7b19f9de0','tutor','25462647Z',DEFAULT,'581')
+usuario duplicado
+insert into usuarios values(0,'608114','79cadac5a066318df85802ce923c74a8','tutor','25466542E',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'200004','467bcac386f1de7f6f34ac18c37117d2','tutor','25466682R',DEFAULT,'89')
+usuario duplicado
+insert into usuarios values(0,'610994','d6baf5bef92a5beda7f05580621cec9d','tutor','25467488W',DEFAULT,'581')
+usuario duplicado
+insert into usuarios values(0,'578013','fcf35a42d62f3fb0d08e3f8adfe8451f','tutor','25467494P',DEFAULT,'113')
+usuario duplicado
+insert into usuarios values(0,'576332','0ca1919422f9032ff1e3776796cd3275','tutor','25468744Q',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'602973','42b55bcdaa9e8c0bb357a641dcc336d7','tutor','25470168Z',DEFAULT,'90')
+usuario duplicado
+insert into usuarios values(0,'609674','7e99957caeb534187d9f9c8a8f6cf8d2','tutor','25471342S',DEFAULT,'14')
+usuario duplicado
+insert into usuarios values(0,'200013','4a44d0608c829be13f72b3c76b8eeea7','tutor','25472289L',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'200064','fad5592c823c9586471fd84e32fd4f01','tutor','25472575Y',DEFAULT,'883')
+usuario duplicado
+insert into usuarios values(0,'574911','eb3dd68c6ed55537074df79b2cbc40f4','tutor','25473580E',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'570325','06bbd1946d491c2b720c1449822f21a6','tutor','25473585G',DEFAULT,'101')
+usuario duplicado
+insert into usuarios values(0,'608133','5c7739ce163bf8a54342c86c64e16b89','tutor','25475948K',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'612733','d7c40182e6d91ecf19711af2f44ba925','tutor','27258660A',DEFAULT,'36')
+usuario duplicado
+insert into usuarios values(0,'200006','383ed93b29b61d0f8c5c130c4e34a696','tutor','27444613R',DEFAULT,'89')
+usuario duplicado
+insert into usuarios values(0,'570235','cfd274a84ffc64be57f553551b89e49d','tutor','29086122T',DEFAULT,'109')
+usuario duplicado
+insert into usuarios values(0,'200069','02c83be514d818c9659cfe9486d48a84','tutor','29088132D',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'587606','620eedc2bf4e187e13bd952ac7e64df1','tutor','29091298R',DEFAULT,'89')
+usuario duplicado
+insert into usuarios values(0,'577952','36bc5af3538caa9bd8de2afc4d3cca18','tutor','29092329C',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'590526','242554a0ea0ddabbbd2dd2a30733b14a','tutor','29093101X',DEFAULT,'90')
+usuario duplicado
+insert into usuarios values(0,'200019','f9e38a9573239d7fc2274692b0415f0c','tutor','29094009K',DEFAULT,'71')
+usuario duplicado
+insert into usuarios values(0,'200012','d8dc5993493677d70b4cbf6e9ce047fd','tutor','29094805N',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'569731','7fe58e685018e6627fdcabfe5774bdec','tutor','29097543J',DEFAULT,'108')
+usuario duplicado
+insert into usuarios values(0,'608293','ac8b985e0768a6378b2f5a46ec4587af','tutor','29098454G',DEFAULT,'89')
+usuario duplicado
+insert into usuarios values(0,'200035','0910ea00d0db0a35318305d577671893','tutor','29098899N',DEFAULT,'108')
+usuario duplicado
+insert into usuarios values(0,'200035','0910ea00d0db0a35318305d577671893','tutor','29098899N',DEFAULT,'108')
+usuario duplicado
+insert into usuarios values(0,'200060','c6d8b444f340192620fe049496e0efcd','tutor','29099514Y',DEFAULT,'36')
+usuario duplicado
+insert into usuarios values(0,'577374','81dc9bdb52d04dc20036dbd8313ed055','tutor','29101956X',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'612635','14838599fddc333e88e75d865bf8e6a4','tutor','29102131R',DEFAULT,'85')
+usuario duplicado
+insert into usuarios values(0,'1802551','d6e06f640dc809793e7ab68b7c039c72','tutor','29103041Z',DEFAULT,'403')
+usuario duplicado
+insert into usuarios values(0,'582604','d76c6e8f6a1b3f7d75ac658870f2779e','tutor','29103451X',DEFAULT,'68')
+usuario duplicado
+insert into usuarios values(0,'573431','9c47d366f0c6d333901ba96e9a541d35','tutor','29103520X',DEFAULT,'80')
+usuario duplicado
+insert into usuarios values(0,'573431','9c47d366f0c6d333901ba96e9a541d35','tutor','29103520X',DEFAULT,'80')
+usuario duplicado
+insert into usuarios values(0,'607614','5346ea849d9dc6176ad68ec3a36584a7','tutor','29103563F',DEFAULT,'92')
+usuario duplicado
+insert into usuarios values(0,'576937','93e00ee4dbe35271464a0134376d30f1','tutor','29103822J',DEFAULT,'83')
+usuario duplicado
+insert into usuarios values(0,'608118','f7e809fdd1d5c21c66ec606f223523d0','tutor','29103890N',DEFAULT,'99')
+usuario duplicado
+insert into usuarios values(0,'577574','c20bcf89be366c4038cdacb6d69a6a4f','tutor','29104736F',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'200044','df6465cfe5e7b6a09ebff1bb2562f0f6','tutor','29106082L',DEFAULT,'41')
+usuario duplicado
+insert into usuarios values(0,'200049','bbe13f490915d55e77301b9623f4076a','tutor','29109130P',DEFAULT,'78')
+usuario duplicado
+insert into usuarios values(0,'581751','84c2d7ba214eb4eeb4fc6f505ce18031','tutor','29109272N',DEFAULT,'90')
+usuario duplicado
+insert into usuarios values(0,'569572','f78e4281c1f04947c67c4c56ad287b53','tutor','29111016P',DEFAULT,'104')
+usuario duplicado
+insert into usuarios values(0,'570255','28a1ac05962c91688ad61258df6e5f48','tutor','29111041X',DEFAULT,'109')
+usuario duplicado
+insert into usuarios values(0,'577228','f5f8f4383f7ae1febe063eadbce49a4f','tutor','29114205T',DEFAULT,'78')
+usuario duplicado
+insert into usuarios values(0,'615993','01531a9ec9ccfbcda877179f53a4daf2','tutor','29115002S',DEFAULT,'5')
+usuario duplicado
+insert into usuarios values(0,'576305','189d733fcb87b63effb059bd38cb4e05','tutor','29116239X',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'608121','e17cfac647ace0073cc0125d685adfb0','tutor','29118342C',DEFAULT,'5')
+usuario duplicado
+insert into usuarios values(0,'573652','806bb67d3310d46cd883701debd9ece1','tutor','29119760N',DEFAULT,'28')
+usuario duplicado
+insert into usuarios values(0,'570291','dd6e150bff4ba66d623799656e893dab','tutor','29120415T',DEFAULT,'109')
+usuario duplicado
+insert into usuarios values(0,'604374','23216c9e57a2944d9d848a634959768a','tutor','29121373S',DEFAULT,'76')
+usuario duplicado
+insert into usuarios values(0,'200046','9d8b9f790347a8cf52bd535a5ff4c716','tutor','2912372B',DEFAULT,'78')
+usuario duplicado
+insert into usuarios values(0,'607356','13dee4129a955b49b119465875910fff','tutor','29123997V',DEFAULT,'45')
+usuario duplicado
+insert into usuarios values(0,'200016','879b0498a8b436ac2c0c66f0f3887d02','tutor','29127949J',DEFAULT,'80')
+usuario duplicado
+insert into usuarios values(0,'584553','3b5a7054d5d5c290276055e2c0d41f6e','tutor','29134814R',DEFAULT,'43')
+usuario duplicado
+insert into usuarios values(0,'200045','da2f92c9032b4d90d5ca3d9a56cea683','tutor','29135581D',DEFAULT,'78')
+usuario duplicado
+insert into usuarios values(0,'569553','9913a2118b27a11cb063e812b000c284','tutor','29135599G',DEFAULT,'107')
+usuario duplicado
+insert into usuarios values(0,'569553','9913a2118b27a11cb063e812b000c284','tutor','29135599G',DEFAULT,'107')
+usuario duplicado
+insert into usuarios values(0,'569553','9913a2118b27a11cb063e812b000c284','tutor','29135599G',DEFAULT,'107')
+usuario duplicado
+insert into usuarios values(0,'200063','e58995c41f8a99b23dfd50c89f369026','tutor','29136436J',DEFAULT,'883')
+usuario duplicado
+insert into usuarios values(0,'580848','665e675cda4b4a867004645ad97463e7','tutor','29181445B',DEFAULT,'36')
+usuario duplicado
+insert into usuarios values(0,'612073','af06ce647a5e54e8be719e60a82a84a3','tutor','29193656D',DEFAULT,'35')
+usuario duplicado
+insert into usuarios values(0,'611293','a32f0fd02c0310e10fb1cfc0823db697','tutor','31251929N',DEFAULT,'98')
+usuario duplicado
+insert into usuarios values(0,'569534','cc8c23caae28e5e3a28dbecf53f02a0a','tutor','34089518E',DEFAULT,'104')
+usuario duplicado
+insert into usuarios values(0,'200015','07b1165afd80257c2226c5cbf1eb6e87','tutor','35022529S',DEFAULT,'80')
+usuario duplicado
+insert into usuarios values(0,'573673','5d1b9200ef53d5baac61614f04d7bb08','tutor','36051980D',DEFAULT,'80')
+usuario duplicado
+insert into usuarios values(0,'609634','f819f5ff7617884d4368d4d8b3724652','tutor','40877233T',DEFAULT,'14')
+usuario duplicado
+insert into usuarios values(0,'200011','9a2902bdd59436c2486dacd74579fa35','tutor','40888166P',DEFAULT,'48')
+usuario duplicado
+insert into usuarios values(0,'617753','726a7f112bd86d4f115a400040153f9c','tutor','43684331V',DEFAULT,'9')
+usuario duplicado
+insert into usuarios values(0,'200055','50612f9095a37dfbfef7ee01d9102dae','tutor','43732350N',DEFAULT,'7')
+usuario duplicado
+insert into usuarios values(0,'613719','767e2a37cf6f0af11c71557550fe9471','tutor','43787616D',DEFAULT,'28')
+usuario duplicado
+insert into usuarios values(0,'613719','767e2a37cf6f0af11c71557550fe9471','tutor','43787616D',DEFAULT,'28')
+usuario duplicado
+insert into usuarios values(0,'1800348','c06fb862f14d5ae373be44e6b4080e09','tutor','44587590',DEFAULT,'46')
+usuario duplicado
+insert into usuarios values(0,'608793','8ad89a83b93bb82f8dbce21858afb11d','tutor','44765079H',DEFAULT,'39')
+usuario duplicado
+insert into usuarios values(0,'580413','a362565c2a2834d6dbe25c7004a05b74','tutor','46567571T',DEFAULT,'40')
+usuario duplicado
+insert into usuarios values(0,'574737','77d20518c917ea1655bb83293ed73cbb','tutor','48402310Y',DEFAULT,'28')
+usuario duplicado
+insert into usuarios values(0,'582602','2fe8f440b98b2a1218ef4aca9a0f515f','tutor','48536053G',DEFAULT,'68')
+usuario duplicado
+insert into usuarios values(0,'611795','89b08ef7cba86a0e1f7ba550b503c58a','tutor','48629541C',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'582596','2e5d9b659d719f30529077ad412ad4e7','tutor','48871498V',DEFAULT,'32')
+usuario duplicado
+insert into usuarios values(0,'574536','4072ef626add952d2d9c9ca4f7070a31','tutor','49106533S',DEFAULT,'33')
+usuario duplicado
+insert into usuarios values(0,'575412','4ad25d5e634b7da7d5b820d8681535ea','tutor','50017096A',DEFAULT,'59')
+usuario duplicado
+insert into usuarios values(0,'571391','4ad25d5e634b7da7d5b820d8681535ea','tutor','50017096B',DEFAULT,'59')
+usuario duplicado
+insert into usuarios values(0,'615973','4ad25d5e634b7da7d5b820d8681535ea','tutor','50017096D',DEFAULT,'59')
+usuario duplicado
+insert into usuarios values(0,'610413','5d76e4875a8a7037992cb6c449922fde','tutor','50613308Z',DEFAULT,'38')
+usuario duplicado
+insert into usuarios values(0,'607839','f81025344f8a486ee61651acbd8e2545','tutor','50806708F',DEFAULT,'43')
+usuario duplicado
+insert into usuarios values(0,'608953','d5c2abb9d2f18a4c5d72dba7769066cc','tutor','50827263T',DEFAULT,'47')
+usuario duplicado
+insert into usuarios values(0,'581311','c06e19983af4ec4cb5a86915fcee261f','tutor','52389065X',DEFAULT,'54')
+usuario duplicado
+insert into usuarios values(0,'554248','99c8cdbe880a0d2441c1ba489c01937b','tutor','52407638E',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'608117','3a7224e9f1918789fa3915e3af98ad76','tutor','52678637N',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'200056','6c1d18b5a5836652800103d338852102','tutor','52819194Q',DEFAULT,'22')
+usuario duplicado
+insert into usuarios values(0,'584052','6bd91fc04d0cfa3abf48d5b965946036','tutor','53630315L',DEFAULT,'43')
+usuario duplicado
+insert into usuarios values(0,'604573','3e59f93deda37618a86bbf9379f4e5f8','tutor','53780590N',DEFAULT,'9')
+usuario duplicado
+insert into usuarios values(0,'576011','f7452d754576fa87ab16f04870b80358','tutor','70164063X',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'616733','3aa7f7c5452407a0efab492b72294897','tutor','70864944N',DEFAULT,'76')
+usuario duplicado
+insert into usuarios values(0,'592154','d5b6748426e2707029f4365caaa5209e','tutor','72684547Q',DEFAULT,'75')
+usuario duplicado
+insert into usuarios values(0,'578539','cb3382a4893e213bb7cc7a0ac4e14dec','tutor','72787771Q',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'609676','2b888bb4b0ca02da5ac0d46032747efc','tutor','72883794Z',DEFAULT,'14')
+usuario duplicado
+insert into usuarios values(0,'575731','c441d42f47f88974a06af66df9f5e244','tutor','72963511J',DEFAULT,'101')
+usuario duplicado
+insert into usuarios values(0,'573733','cb31fdb2a0cba08e3c640711cfa6dfad','tutor','72964745M',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'574518','4542b5b7cdcf8533dedd0365721b4ccb','tutor','72965093P',DEFAULT,'101')
+usuario duplicado
+insert into usuarios values(0,'573732','1f7c1d00fc1a8282e09b8a79d38e383c','tutor','72967778W',DEFAULT,'103')
+usuario duplicado
+insert into usuarios values(0,'573852','a60dbe40be2f97127234242b0ea12f1f','tutor','72968266F',DEFAULT,'56')
+usuario duplicado
+insert into usuarios values(0,'612873','90746cb36437549e7eef00fbfdb41aee','tutor','72969762P',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'574775','12cde223a88f5a540530416d942d4468','tutor','72971546K',DEFAULT,'28')
+usuario duplicado
+insert into usuarios values(0,'200017','f2dbaeb40bdf395d7b496f9becc24dfd','tutor','72971851G',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'580800','b1550783c9cd54d119b80d66b001187a','tutor','72972582E',DEFAULT,'25')
+usuario duplicado
+insert into usuarios values(0,'581434','a707622bd3029ab6e4dda95a9ac0d692','tutor','72974838R',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'569697','7daa4bea6a17d7835b86166d6b9122c4','tutor','72976001Z',DEFAULT,'43')
+usuario duplicado
+insert into usuarios values(0,'576299','0c75c04dad090403bb068133730877c6','tutor','72976369Z',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'200022','55462f8aa2c996146db3a941709cd578','tutor','72982781D',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'579772','20a0b959569033bcd1f39699ebf01f3b','tutor','72984944X',DEFAULT,'22')
+usuario duplicado
+insert into usuarios values(0,'200005','989c1048e562c1c85c2583acc161746b','tutor','72992702V',DEFAULT,'89')
+usuario duplicado
+insert into usuarios values(0,'590682','a4e86b95aece8cfc0a08a64bc07c6d1d','tutor','72994813N',DEFAULT,'54')
+usuario duplicado
+insert into usuarios values(0,'574052','617a5aea908477c132df5ae21034e71c','tutor','72995846X',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'613393','4086d4963445b8e8c3b0b32717724e1c','tutor','72999956A',DEFAULT,'49')
+usuario duplicado
+insert into usuarios values(0,'579691','cf1286ad420deff9115dc7dd632d771f','tutor','73001069N',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'569694','b5022390de23c1afd33ba61f6af22b9f','tutor','73001592Y',DEFAULT,'104')
+usuario duplicado
+insert into usuarios values(0,'614002','6eb33f0d9c130b78d10d50a813ccd65b','tutor','73007360R',DEFAULT,'55')
+usuario duplicado
+insert into usuarios values(0,'596854','5267646d73e259e0b24701ca36843434','tutor','73010924T',DEFAULT,'103')
+usuario duplicado
+insert into usuarios values(0,'610995','39f610b17122a3e3d28e6e1bf748701f','tutor','73012984J',DEFAULT,'28')
+usuario duplicado
+insert into usuarios values(0,'611933','cf0dabfd4b2bad899a67f3619cd537d0','tutor','73016794M',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'575978','5a3c6f92ca3e5b82cb4fd29b6eab38cd','tutor','73066462Q',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'573776','01d5fe4534a9fc048f7aab363963b1d3','tutor','73066586',DEFAULT,'46')
+usuario duplicado
+insert into usuarios values(0,'615813','a220584cf4872ab3846688bb143ca505','tutor','73067550T',DEFAULT,'91')
+usuario duplicado
+insert into usuarios values(0,'613847','8ef5359d0cba298fa9f944cb76649800','tutor','73067767X',DEFAULT,'47')
+usuario duplicado
+insert into usuarios values(0,'577291','489cb3e3eac0d2617101163b9445c8db','tutor','73068688B',DEFAULT,'41')
+usuario duplicado
+insert into usuarios values(0,'575433','52eca8e355f823415849ac95ec110b2b','tutor','73074931K',DEFAULT,'54')
+usuario duplicado
+insert into usuarios values(0,'577332','b031194bae8fcf1b62a56b4a8b729a16','tutor','73076079L',DEFAULT,'54')
+usuario duplicado
+insert into usuarios values(0,'581689','bbdc0d0b99bdc4182bfb438a75bcf2bc','tutor','73077325T',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'200010','b67104bb7d9848693de82e69bcd95c2a','tutor','73077880A',DEFAULT,'77')
+usuario duplicado
+insert into usuarios values(0,'577095','38e75df3e7000699daa8ebbff9307177','tutor','73079798N',DEFAULT,'61')
+usuario duplicado
+insert into usuarios values(0,'584213','3d4ed1f27b6afef6f3593fbc5ee8dcb8','tutor','73082878X',DEFAULT,'100')
+usuario duplicado
+insert into usuarios values(0,'584213','3d4ed1f27b6afef6f3593fbc5ee8dcb8','tutor','73082878X',DEFAULT,'100')
+usuario duplicado
+insert into usuarios values(0,'582091','2f8d3d1abb53ee3b4dda4b0f298c100f','tutor','73084029B',DEFAULT,'321')
+usuario duplicado
+insert into usuarios values(0,'579791','223bdd33a6c834244524146eb7b754f8','tutor','73087286W',DEFAULT,'38')
+usuario duplicado
+insert into usuarios values(0,'616493','f9ec6d4275869ba6b8fe36f3692b5bd3','tutor','73088658V',DEFAULT,'25')
+usuario duplicado
+insert into usuarios values(0,'616493','f9ec6d4275869ba6b8fe36f3692b5bd3','tutor','73088658V',DEFAULT,'25')
+usuario duplicado
+insert into usuarios values(0,'604593','cf64270469bffaa67a24178414ecd7f8','tutor','73090263N',DEFAULT,'181')
+usuario duplicado
+insert into usuarios values(0,'616173','9072d1bfd3d9715e837b01e77ebb266d','tutor','73090469B',DEFAULT,'7')
+usuario duplicado
+insert into usuarios values(0,'571211','236b587db2285a658e5e66933a190ebb','tutor','73151976Q',DEFAULT,'25')
+usuario duplicado
+insert into usuarios values(0,'575476','d162475c5f48245e7413a896e515fd75','tutor','73153059H',DEFAULT,'74')
+usuario duplicado
+insert into usuarios values(0,'577092','8f8dfd801d42c15f5d71650d6db54159','tutor','73153136A',DEFAULT,'61')
+usuario duplicado
+insert into usuarios values(0,'200020','cd5064fe008d7702b5bf2e569d59a414','tutor','73153378S',DEFAULT,'25')
+usuario duplicado
+insert into usuarios values(0,'574412','9e4dd921c663ffe7e37bf14391dba759','tutor','73153495V',DEFAULT,'80')
+usuario duplicado
+insert into usuarios values(0,'612935','80617eb70f0365b7e19ad73a3083d191','tutor','73153751C',DEFAULT,'117')
+usuario duplicado
+insert into usuarios values(0,'573772','202cb962ac59075b964b07152d234b70','tutor','73154369V',DEFAULT,'45')
+usuario duplicado
+insert into usuarios values(0,'574860','bdfca6b04f45dc4134b53e959d5a2561','tutor','73155832P',DEFAULT,'25')
+usuario duplicado
+insert into usuarios values(0,'573135','af6f14c13e90d2a33cacf0c4c2fef675','tutor','73189455M',DEFAULT,'2')
+usuario duplicado
+insert into usuarios values(0,'573135','af6f14c13e90d2a33cacf0c4c2fef675','tutor','73189455M',DEFAULT,'2')
+usuario duplicado
+insert into usuarios values(0,'576295','31b3af890f4955a26a971b5d4be2de80','tutor','73190228L',DEFAULT,'17')
+usuario duplicado
+insert into usuarios values(0,'1803071','54379c540497ff1b0c196e433e068d5f','tutor','73190838P',DEFAULT,'92')
+usuario duplicado
+insert into usuarios values(0,'577549','a72d11279dd21717e437cc93d9d3468f','tutor','73192116K',DEFAULT,'19')
+usuario duplicado
+insert into usuarios values(0,'579311','e6aa72cf933544eafd562e9d6167c885','tutor','73194067V',DEFAULT,'75')
+usuario duplicado
+insert into usuarios values(0,'576079','403190d47280c838ffe95b8b128ce46f','tutor','73196238A',DEFAULT,'17')
+usuario duplicado
+insert into usuarios values(0,'580213','6d49d5b6e83945f01ccc4d8def9b044e','tutor','73196240M',DEFAULT,'96')
+usuario duplicado
+insert into usuarios values(0,'615665','4d81a86be95b04d312be6b2d34ac7e99','tutor','73201072F',DEFAULT,'102')
+usuario duplicado
+insert into usuarios values(0,'611133','2079647e61c1d327d94af9ad6f8e6316','tutor','73201846E',DEFAULT,'32')
+usuario duplicado
+insert into usuarios values(0,'577775','12e36ac1d55fb5e8ab9ff0332512f205','tutor','73203747Z',DEFAULT,'94')
+usuario duplicado
+insert into usuarios values(0,'618653','4ce021e4e0a427eb81225ee1ce8fa901','tutor','73205325M',DEFAULT,'5')
+usuario duplicado
+insert into usuarios values(0,'617794','2caacf94a8c978b74d98dd9e90bf7ee2','tutor','73208839T',DEFAULT,'17')
+usuario duplicado
+insert into usuarios values(0,'200066','aaa6b76c95560146e4808dd9154b14b9','tutor','73243194Q',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'574803','e1c2858644fcbbc21b5eea64e208f22f','tutor','73243319A',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'575274','ca8852483340cdcff9fa1ff8b383e878','tutor','73243718B',DEFAULT,'55')
+usuario duplicado
+insert into usuarios values(0,'574455','8538b5b30f8dcdfade1561018960113a','tutor','73243851Y',DEFAULT,'88')
+usuario duplicado
+insert into usuarios values(0,'200036','f4e579c5efd97977619dfcb7fbad41a1','tutor','73244417C',DEFAULT,'61')
+usuario duplicado
+insert into usuarios values(0,'570632','70b15997ab688e775078596b4be54bfa','tutor','73256512V',DEFAULT,'74')
+usuario duplicado
+insert into usuarios values(0,'578213','f4fdeca92a0bd37c90ff20332b05c6b0','tutor','73258175R',DEFAULT,'50')
+usuario duplicado
+insert into usuarios values(0,'595619','cc42abc512f7a28c72a28254d860384c','tutor','73258401C',DEFAULT,'25')
+usuario duplicado
+insert into usuarios values(0,'581051','9f2f04c75c6113cb5471fc66a6c8221d','tutor','73261043V',DEFAULT,'25')
+usuario duplicado
+insert into usuarios values(0,'575151','5babd8e82b44b680deeceee62fb98feb','tutor','73392094Z',DEFAULT,'85')
+usuario duplicado
+insert into usuarios values(0,'607653','f82f48c65edb246d999cbdf1256752aa','tutor','74647024H',DEFAULT,'51')
+usuario duplicado
+insert into usuarios values(0,'617913','4253ec01ddd7bc7cb0c2cc4a0acdf186','tutor','74653988J',DEFAULT,'35')
+usuario duplicado
+insert into usuarios values(0,'574599','45d59bd53d61d85d5c4dc7347b6ce36e','tutor','75065640B',DEFAULT,'28')
+usuario duplicado
+insert into usuarios values(0,'609565','012c8dde273820a31ec9067669147a79','tutor','75149169G',DEFAULT,'16')
+usuario duplicado
+insert into usuarios values(0,'572231','2aed6fb79af6a17059673b4ea12849ea','tutor','76008545P',DEFAULT,'70')
+usuario duplicado
+insert into usuarios values(0,'569681','5acb29f3c9aa6a3759984a11eb393cba','tutor','76117516M',DEFAULT,'104')
+usuario duplicado
+insert into usuarios values(0,'570326','b28b1e05e2869dc8214a06e918f3172a','tutor','76916616Q',DEFAULT,'103')
+usuario duplicado
+insert into usuarios values(0,'607934','92afb28f0cdd97fab06c01b8b8e6dfc2','tutor','76918767M',DEFAULT,'42')
+usuario duplicado
+insert into usuarios values(0,'578972','6865af25e64248df90222f47b3fdcc18','tutor','76971028X',DEFAULT,'43')
+usuario duplicado
+insert into usuarios values(0,'200040','3386153ca7a3f423bf3211da4c5df000','tutor','76973782G',DEFAULT,'73')
+usuario duplicado
+insert into usuarios values(0,'200068','d916647ca41e51baf5b56b2ad170a79f','tutor','76973873A',DEFAULT,'64')
+usuario duplicado
+insert into usuarios values(0,'574335','5924ec26cf5891e70a99bf29af6e7587','tutor','9678V',DEFAULT,'76')
+usuario duplicado
+USUARIOS TUTORES Cargados: 625
+1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`PR_INSERCIONFP`.`tutores`, CONSTRAINT `tutores_ibfk_1` FOREIGN KEY (`idusuariofct`) REFERENCES `usuarios` (`idusuariofct`))
+Error insertando tutores
+insert into tutores values("29440","574799","ENRIQUE LUIS","ARTERO","18037890W","651")
+error:29440
+1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`PR_INSERCIONFP`.`tutores`, CONSTRAINT `tutores_ibfk_1` FOREIGN KEY (`idusuariofct`) REFERENCES `usuarios` (`idusuariofct`))
+Error insertando tutores
+insert into tutores values("36501","619213","VESELINA SABINOVA","KENALIEVA","X4889541V","648")
+error:36501
+1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`PR_INSERCIONFP`.`tutores`, CONSTRAINT `tutores_ibfk_1` FOREIGN KEY (`idusuariofct`) REFERENCES `usuarios` (`idusuariofct`))
+Error insertando tutores
+insert into tutores values("36481","618773","YOLANDA","ESCORZA","16541273H","581")
+error:36481
+1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`PR_INSERCIONFP`.`tutores`, CONSTRAINT `tutores_ibfk_1` FOREIGN KEY (`idusuariofct`) REFERENCES `usuarios` (`idusuariofct`))
+Error insertando tutores
+insert into tutores values("31842","581214","CARLOS","SALVADOR","18443557H","1016")
+error:31842
+1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`PR_INSERCIONFP`.`tutores`, CONSTRAINT `tutores_ibfk_1` FOREIGN KEY (`idusuariofct`) REFERENCES `usuarios` (`idusuariofct`))
+Error insertando tutores
+insert into tutores values("18069","1803071","JOAQUIN","PARDINILLA","73190838P","823")
+error:18069
+TUTORES Cargados: 620

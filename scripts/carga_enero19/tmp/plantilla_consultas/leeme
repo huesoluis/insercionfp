@@ -1,0 +1,19 @@
+Para geenrar un json de los datos de la base de datos
+
+1. Crear la consulta sqli: fichero consulta_base.sql
+
+2. Lanzar el comando ... sql que genera el out.csv
+
+3. Lanzar el comando generador de 2 o 3 niveles con el output al fichero json buscado
+
+4. Crear el blade.php correspondiente y copiarlo al directorio de views
+
+cp ciclos_res_cri.blade.php ../../views/
+
+5. Añaidr unaentrada al layout master
+
+vim ../../views/layouts/master.blade.php
+
+6. Copiar fichero de datos json en el directorio de datos publico.
+
+cp outprueba.json ../../../public/entidades/ciclos_res_cri.json

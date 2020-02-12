@@ -1,0 +1,97 @@
+.dglobal{
+border-right-style: solid;
+height: 150px;
+font-family: medium-marketing-display-font,Georgia,Cambria,"Times New Roman",Times,serif !important;
+text-align:center;
+}
+
+i{
+font-size:10px;
+}
+
+.last{
+border-right-style: none;
+}
+
+.dg{
+font-size:25px;
+color:brown;
+position:absolute;
+top:65%;
+}
+.dgp{
+font-size:35px;
+color:darkblue;
+position:absolute;
+top:60%;
+padding-left:40%;
+}
+.indicador{
+padding-left:40% !important;
+top:60%;
+}
+
+#sidebar
+{
+  width: 200px;
+  float: left;
+  padding-top: 100px;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+.periodo {
+text-align:center;
+padding-left:10px;
+font-size:30px;
+}
+.itext {
+text-align:center;
+padding-left:10px;
+font-size:10px;
+}
+
+.subtext {
+text-align:center;
+padding-left:10px;
+font-size:30px;
+}
+#tperiodo{
+position:fixed;
+padding-top:10px;
+text-align:center;
+background-color: white;
+color:darkblue;
+margin-right:110px;
+}
+
+ul>li>a
+{
+color: darkblue;
+}
+
+#buscar_centros{
+margin-bottom:40px;
+width:325px;
+}
+
+@media only screen and (max-width: 600px) {
+.dg{
+font-size:42px;
+color:brown;
+position:initial;
+}
+
+.dins1
+{
+height:50%
+}
+.dins2
+{
+height:50%
+}
+
+}

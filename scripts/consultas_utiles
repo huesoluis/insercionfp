@@ -1,0 +1,15 @@
+
+NUEVO TUTOR
+-------------------------
+select *  from usuarios order by idusuariofct desc limit 2;
+
+insert into usuarios values(0,95000,md5('16568672R'),'tutor','16568672R',now(),73);
+
+select *  from tutores order by idtutorfct desc limit 4;
+
+select * from ciclos where codciclo like '%COM303%';
+
+insert into tutores values(37000,95000,'JL GARCIA','APARICI','16568672R',370);
+
+
+

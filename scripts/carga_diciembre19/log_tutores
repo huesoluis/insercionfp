@@ -1,0 +1,5 @@
+1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`PR_INSERCIONFP`.`tutores`, CONSTRAINT `tutores_ibfk_2` FOREIGN KEY (`idciclofct`) REFERENCES `ciclos` (`idciclofct`))
+Error insertando tutores
+insert into tutores values("36021","616013","JOSÉ JORGE","GARCÍA ","25167114P","1507")
+error:36021
+TUTORES Cargados: 619

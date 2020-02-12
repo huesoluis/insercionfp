@@ -1,0 +1,62 @@
+"fecha fct","nombre","primer_apellido","segundo apellido","telefono","email","codigo ciclo","denominacion ciclo","provincia","grado","fct","trabaja","relacionado con el estudio","tipo de contrato","misma empresa"
+"jun19","David","Gracia","Bailón","","","FPB102","ELECTRICIDAD Y ELECTRÓNICA","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","César","Oliver","Casanova","","","FPB102","ELECTRICIDAD Y ELECTRÓNICA","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Aaron","Maurel","Parra","","","FPB102","ELECTRICIDAD Y ELECTRÓNICA","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Daniel","Rodríguez","Huerta","","","FPB102","ELECTRICIDAD Y ELECTRÓNICA","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Alex","Faubell","Cuairán","","","FPB102","ELECTRICIDAD Y ELECTRÓNICA","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Óscar","Santos","Ortega","","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","EN DESEMPLEO",\N,\N,\N
+"jun19","Fermín","Saez","Zapata","","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Jesús","Valeau","Gracia","","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Óscar","Gil","Casamayor","","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Izán","Leonar","Laserrada","","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Pablo Esteban","Berdún","Sanjuan","","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Jorge","Lahilla","Sánchez","","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Nicolás","Mené","Manero","","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Álvaro","Valenzuela","Lambán","","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","José Manuel","Pedraza","Beorlegui","","","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Alberto","Cerdán","Berna","","","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Andrés","Fuertes","Raso","","","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO","SI","TRABAJA","SI","OTRO","NO"
+"jun19","Moisés","Ferruz","Larragay","","","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","David","Medrano","Palacios","","","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO","SI","TRABAJA","SI","OTRO","NO"
+"jun19","Carlos","Calvera","Fuertes","","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"jun19","Joaquín","Almau","García","","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"jun19","Jhud Jherson","Luján","Asparren","","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","David","Alonso","Alcañiz","","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"jun19","Irene","Guinda","Semper","","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","David","Becerril","Faubell","","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Carlos","Estaben","Supervía","","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Aarón","Liarte","Mariñoso","","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun19","José Gabriel","Alamán","Jiménez","","","TMV201","CARROCERÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","David","Cuartero","Baró","","","TMV201","CARROCERÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Noel","Gracia","Ubide","","","TMV201","CARROCERÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Erick Alexander","Lahua","Moya","","","TMV201","CARROCERÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Cristian","Pérez","Duardo","","","TMV201","CARROCERÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Luis","Higueras","González","","","TMV201","CARROCERÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Ignacio","Santacatalina","Escolán","","","TMV201","CARROCERÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Juan","Valero","Orte","","","TMV201","CARROCERÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Santiago","Escalera","Moreno","","","TMV201","CARROCERÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Jorge","Borobia","Ceballos","","","TMV201","CARROCERÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Aitor","Iborte","Bolea","","","TMV201","CARROCERÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Jorge","Sancho","Alonso","","","TMV201","CARROCERÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Estela","Serrano","Ubau","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","NSNC",\N,\N,\N
+"jun19","Sergio","Duarte","Peralta","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Emilian Constantin","Tura","","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Dario Ciprian","Martínez","Fajardo","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Sofía","Bertol","Lamuela","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Lydia","Vera","Usán","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Julia","Torrano","Cortés","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","EN DESEMPLEO",\N,\N,\N
+"jun19","Raquel","Marqués","Ruiz","","","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Marina Florentina","Stamin","","","","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA","SI","TRABAJA","NO","OTRO","NO"
+"jun19","Gemma","Carballo","Rubio","","","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Marta","Cortés","Martínez","","","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Abigail","Fernández-Conde","Gonçalves","","","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA","SI","EN DESEMPLEO",\N,\N,\N
+"dic18","ANTONIO","LATORRE","CUNCHILLOS","636228173","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"dic18","NOELIA","VELÁZQUEZ","WILLMEK","661295089","NOE2001@LIVE.COM","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"dic18","SAMUEL","GASPAR","BARCELONA","648719908","SAMUELCHIMEGRSN@HOTMAIL.COM","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"dic18","LUCAS","SANCHO","Giménez","639393327","LUKASMACHIN@GMAIL.COM","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO","SI","TRABAJA","SI","OTRO","NO"
+"dic18","NEREA","AGUILAR","LORENTE","976864256","NEREA10ZGZ@GMAIL.COM","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","NSNC",\N,\N,\N
+"dic18","AITOR","MAGDALENA","ECHEGOYEN","608379461","AMAGDALENA.SIGLOXXI@GMAIL.COM","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","NSNC",\N,\N,\N
+"dic18","JULIA","GONZÁLEZ","GONZALO","976619185","JUGONZALEZ.SIGLOXXI@GMAIL.COM","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","NSNC",\N,\N,\N
+"dic18","LEANDRO","ORIOLI","NAKAZONO","627827885","ORIOLI425@GMAIL.COM","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","NSNC",\N,\N,\N
+"dic18","ALEJANDRA","ÁLVAREZ","LAMUELA","976655042","ALEJANDRICA97@GMAIL.COM","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","TRABAJA","SI","FIJO","NO"
+"dic18","ALEX","PATERNA","CORDERO","","","ELE202","INSTALACIONES ELÉCTRICAS Y AUTOMÁTICAS","50","MEDIO","SI","TRABAJA","NO","OTRO","NO"

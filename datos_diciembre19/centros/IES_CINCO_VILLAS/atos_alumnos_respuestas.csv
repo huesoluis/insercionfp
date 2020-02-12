@@ -1,0 +1,67 @@
+"fecha fct","nombre","primer_apellido","segundo apellido","telefono","email","codigo ciclo","denominacion ciclo","provincia","grado","fct","trabaja","relacionado con el estudio","tipo de contrato","misma empresa"
+"jun19","Georgia","Ivanova","Georgieva","","","IMP203","PELUQUERÍA Y COSMÉTICA CAPILAR","50","MEDIO","SI","TRABAJA","SI","OTRO","SI"
+"jun19","Angelina","Asparuhova","Kurteva","","","IMP203","PELUQUERÍA Y COSMÉTICA CAPILAR","50","MEDIO","SI","TRABAJA","SI","OTRO","SI"
+"jun19","Petya","Kostadinova","Ilieva","","","IMP203","PELUQUERÍA Y COSMÉTICA CAPILAR","50","MEDIO","SI","TRABAJA","SI","OTRO","SI"
+"jun19","Eva","Cortés","Pueyo","","","IMP203","PELUQUERÍA Y COSMÉTICA CAPILAR","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","David","Pardo","Villares","","","FPB126","INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Ricardo","Romeo","Biescas","","","FPB126","INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Vasil","Yordanov","Vasilev","","","FPB126","INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Ángel","Liso","Casalé","","","FPB126","INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Joaquin Federico","Espinosa","Vialé","","","FPB126","INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Raúl Emmanuel","Acosta","Gómez","","","FPB126","INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Mario","Fago","Ciudad","","","FPB126","INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Israel","Hernández","Catalán","","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"jun19","Héctor","Heredia","Moreno","","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun19","Adrián Dorin","Birzu","","","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"jun19","Enrique","Navarro","Pueyo","","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","Fernando","Plou","Cativiela","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Miriam","Rasal","Conde","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","TRABAJA","SI","OTRO","SI"
+"jun19","Ana","Ansodi","Ribera","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","TRABAJA","NO","OTRO","NO"
+"jun19","Alfredo","Conde","Sánchez","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","TRABAJA","NO","OTRO","NO"
+"jun19","Aroa","Berdor","Lasheras","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Javier","Navarro","Zarralanga","","","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Salvador","Gállego","Rodríguez","","","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Manuel","Lahoz","Plaza","","","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Jorge","Almuzara","Cativiela","","","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Alexandru Ionut","Vizitiu","","","","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Estefanía","Blasco","Gracia","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun19","Paola","Biota","Gracia","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","TRABAJA","SI","FIJO","NO"
+"jun19","Natalia","Ruiz","Gotor","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun19","Ana","Salafranca","Sevilla","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","TRABAJA","SI","FIJO","SI"
+"jun19","Yulith Marcela","Mejía","López","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Alberto","Gil","García","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","Anamaria","Proorocu","","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","TRABAJA","NO","FIJO","NO"
+"jun19","Estefanía","Arruga","Miana","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","Raquel","García","Pérez","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","Lidia","Aranda","Lasala","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","Moisés Enrique","Ventura","Mate","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","TRABAJA","SI","FIJO","NO"
+"jun19","Paula","Navarro","Navarro","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","TRABAJA","SI","FIJO","SI"
+"dic18","TERESA","CASALÉ","FERNÁNDEZ","600954282","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"dic18","NURIA","EZQUERRA","CATIVIELA","636036725","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"dic18","TANIA","ROMEO","PALACIO","675835611","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"dic18","ANA CRISTINA","FAURE","MORALES","686787791","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","TRABAJA","SI","FIJO","NO"
+"dic18","Mª MAR","VILCHEZ","MARTÍN","657022813","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","NSNC",\N,\N,\N
+"jun19","Jorge",\N,\N,"676480898","jalmuzaracativiela@gmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Raúl",\N,\N,"625023889","raulako6956@gmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Víctor",\N,\N,"676602985","analacosta31@hotmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Salvador",\N,\N,"615279466","saengabe@gmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Ousmane",\N,\N,"632569997","usmane_kande77@hotmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","EXENTO","NSNC",\N,\N,\N
+"jun19","Manuel",\N,\N,"976667199","mlahoz2000@gmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Juan",\N,\N,"659068319","moriano180@gmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Javier",\N,\N,"636138135","fernandojnavarro@hotmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Juan",\N,\N,"691817500","belenmati73@hotmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Alexandru Ionut",\N,\N,"671141320","aless217@gmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"dic18","Adrian",\N,\N,"657249187","admi-ejea_69@hotmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","Adrian",\N,\N,"657249187","admi-ejea_69@hotmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","EXENTO","NSNC",\N,\N,\N
+"jun19","Yordan",\N,\N,"692632763","drmwtf@gmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","Yordan",\N,\N,"692632763","drmwtf@gmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Sergio",\N,\N,"619765864","milagro","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","EXENTO","TRABAJA","SI","OTRO","NO"
+"jun19","Sergio",\N,\N,"619765864","milagro-48@hotmail.es","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Sergio",\N,\N,"619765864","milagro-48@hotmail.es","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","EXENTO","NSNC",\N,\N,\N
+"jun19","Aitor",\N,\N,"692832215","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","FIJO","SI"
+"jun19","David",\N,\N,"976663550","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","FIJO","SI"
+"jun19","Martin",\N,\N,"619404984","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","FIJO","NO"
+"jun19","Miguel",\N,\N,"650301115","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","Zlatotsvet",\N,\N,"633610834","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","NO","FIJO","NO"
+"jun19","Jefry Marino",\N,\N,"650661287","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun19","Ahmed",\N,\N,"697964729","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N

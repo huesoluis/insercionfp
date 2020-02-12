@@ -1,0 +1,46 @@
+"fecha fct","nombre","primer_apellido","segundo apellido","telefono","email","codigo ciclo","denominacion ciclo","provincia","grado","fct","trabaja","relacionado con el estudio","tipo de contrato","misma empresa"
+"jun19","Juan Ignacio","Muñoz","Sánchez","","JUANITODRK@GMAIL.COM","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Cristian Andrés","Peña","Hernández","","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","Diego","Melero","Vázquez","647218658","DMELEROVAZQUEZ@GMAIL.COM","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun19","Ana Valentina","Moga","","976849010","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","TRABAJA","SI","FIJO","SI"
+"jun19","Sara","Dueñas","Millán","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","María Carmen","Herrero","Pascual","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","TRABAJA","SI","FIJO","NO"
+"jun19","Leticia","Bardaji","Miñana","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Jorge Horacio","Vicente","Gómez","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","ROXANA SORICA","Danescu","","976884053","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","EN DESEMPLEO",\N,\N,\N
+"jun19","Yessica","Gilaberte","Espeja","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Cristina","Tornos","Laorden","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Rafael de Paula","Suárez","Sánchez","","","FPB126","INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA","50","BASICA","SI","TRABAJA","SI","FIJO","SI"
+"jun19","Vasile Iulian","Valean","","","","FPB126","INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Gabriel","Coehlo","Pérez","","","FPB126","INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA","50","BASICA","SI","TRABAJA","SI","OTRO","SI"
+"jun19","Miguel","Andrés","Simón","","","FPB126","INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA","50","BASICA","SI","TRABAJA","SI","OTRO","SI"
+"jun19","Alexandru Florín","Achitei","","","","FPB126","INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Walid","Afkir","","","","FPB126","INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun19","Andrei Basarab","Constantin","","","","FPB126","INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA","50","BASICA","SI","NSNC",\N,\N,\N
+"jun19","Daniel","Gimeno","Tabuenca","648246030","","ELE202","INSTALACIONES ELÉCTRICAS Y AUTOMÁTICAS","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Miguel Ángel","Vicent","Marín","","","FME202","MECANIZADO","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Carlos","Mateo","Sebastián","","","FME202","MECANIZADO","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Jorge","Moreno","Mediel","","","FME202","MECANIZADO","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Marius Ioan","Toda","","","","FME202","MECANIZADO","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","José Arón","Ávila","Mateo","","","FME202","MECANIZADO","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","José Ángel","Cabello","Burgos","","","IFC302","DESARROLLO DE APLICACIONES MULTIPLATAFORMA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Antonio","Duarte","Rausell","","","IFC302","DESARROLLO DE APLICACIONES MULTIPLATAFORMA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Noelia","Esteban","Boillos","","","IFC302","DESARROLLO DE APLICACIONES MULTIPLATAFORMA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Laura","López","Borja","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"jun19","Andrea del","Río","Ochoa","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Silvia","Antolín","Gutiérrez","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Johanna Elizabeth","Méndez","Vera","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Estefanía Natalia","Bustamante","Vásquez","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Andrea","Esteban","Cabrejas","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Laura","Gotor","Fontanillas","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","ÁLVARO","CERDÁN","LAFUENTE","648636052","MARTIGAS@EMILIOJIMENO.EDU.ES","ELE202","INSTALACIONES ELÉCTRICAS Y AUTOMÁTICAS","50","MEDIO",\N,\N,\N,\N,\N
+"dic18","Denis Dumitru","Babau","","976897746","SINNED287@GMAIL.COM","ELE202","INSTALACIONES ELÉCTRICAS Y AUTOMÁTICAS","50","MEDIO",\N,\N,\N,\N,\N
+"dic18","JESÚS","CANSADO ","MERCADER","610626410","","FME202","MECANIZADO","50","MEDIO",\N,\N,\N,\N,\N
+"dic18","AITOR ANTONIO","MARÍN","GONÇALVEZ","620299338","","FME202","MECANIZADO","50","MEDIO",\N,\N,\N,\N,\N
+"dic18","PAOLA","PACHECO","GISEL","","","ADG301","ADMINISTRACION Y FINANZAS","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","LUIS MIGUEL","LÓPEZ","MELÚS","679910748","","IFC302","DESARROLLO DE APLICACIONES MULTIPLATAFORMA","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","DIEGO","MAGALLARES","LÓPEZ","687975469","","IFC301","ADMINISTRACION DE SISTEMAS INFORMATICOS EN RED","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","PABLO","CARO","COMÍN","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"dic18","MARIO","GREGORIO","RODRÍGUEZ","647690077","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"dic18","ELISA","BLANCO","BALLANO","","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","TRABAJA","SI","FIJO","SI"
+"dic18","EDUARDO","MAESTRO","CIRIA","976842701","","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","TRABAJA","SI","FIJO","SI"

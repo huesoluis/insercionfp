@@ -1,0 +1,5 @@
+Consultas sql para crear una nueva encuesta
+
+#Obtenemos datos de usuarios alumnos
+
+

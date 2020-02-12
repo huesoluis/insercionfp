@@ -1,0 +1,214 @@
+DOC INSERCION LABORAL
+-------------------------------------
+
+CORRECIONES A REALIZAR
+
+Revisar preguntas
+Seleccionar solo los alumnos que han realizado FCTs diferenciando si son o no aptos, no todo los que están dados de alta
+Autónomos?
+
+ESTADISTICAS
+
+Número de alumnos inscritos en FCT
+Numero de aptos
+
+Todos los porcentajes sobre numero de alumnos que han respondido
+
+Porcentaje de respuesta
+Porcentaje de insercion respecto a los que finalizan
+Porcentaje de insercion respecto a los que finalizan y no estudian
+Porcentaje de insercion en el sector relacionado respecto a lo que finalizan
+Porcentaje de insercion en el sector relacionado respecto a lo que trabajan
+
+1.	Mejorar la estabilidad de la aplicación, puesto que algunos tutores manifiestan haber tenido que introducir los datos varias veces, ya que desaparecen total o parcialmente al enviarlos. Esta circunstancia origina que, si los tutores reciben información posterior sobre algún alumno, duden si introducir o no la modificación para no poner en riesgo los datos previos. 
+2.	El cuestionario no recoge el supuesto de los alumnos exentos, ni descarta la pregunta de si han sido contratados en la misma empresa de la FCT, que no debería desplegarse por ser incoherente en este caso.
+3.	Se propone que en el cuestionario se reflejen, además de los contratos laborales (fijos y temporales), las iniciativas de autoempleo y emprendimiento de los alumnos.
+4.	Contribuiría a incrementar las respuestas de los alumnos y, con ello, la fiabilidad de la encuesta,  que se proporcionara a los tutores una herramienta que permita su envío, respuesta y tratamiento de forma automática e inmediata, permitiendo a los alumnos responder desde cualquier dispositivo móvil, mediante Google Forms o similar.
+5.	El programa debería diferenciar los alumnos de modalidad a distancia de los presenciales, ya que son grupos distintos y también lo son sus tutores.
+
+
+
+
+
+------------------------
+
+Cuando hay problemas disponemos de un script para regenrar la base de datos original INSERCION_LABORAL sincronizandola con la de pruebas PR_INSERCION_LABORAL
+El script:
+
+sin_data_insercion.sh
+
+
+
+MODELO DE DATOS
+
+Cargamos usuarios de 3 tipos, administradores, tutores y directores.
+
+Tabla usuarios
+-----------------
+formada por los 3 tipos de usuario que provienen de la base de datos de PRO del curso 2018-19
+
+Los usuarios tutores son solamente los del presente curso, no los que había en la edición o periodo anterior (en este caso no incluimos usuarios de diciembre de 17)
+
+
+Tabla tutores
+---------------
+
+Son solamente los del curso actual, 1819, su identificador lo forman el periodo, el ciclo formativo y el id de tutor en la aplicación de fct.
+
+
+CUENTAS DE CENTROS
+
+Salesianos
+--------------------
+
+50007236
+50007236
+
+MEJORAS
+------------------
+
+-añadir la opción de 'pòr cuenta propia' en las preguntas de en que empresa trabajas
+-obligar a responder las dos primera preguntas por lo menos
+-Añadir la edad y el sexo como campos de los alumnos
+
+
+
+CUENTAS DE PRUEBA
+------------------
+
+Direccion: 
+--------------
+centro   Escuelas Pías
+usuario: dinsercion
+pass:	 Sfp$2016
+
+
+Tutor:
+------------
+username:	18022332S
+pass:		18022332S
+
+
+
+Respuestas alumnos
+
+select * from alumnos a, respuestas r where a.idalumnofct=r.idalumnofct and a.primer_apellido like 'And%' and nombre like 'DA%'\G
+
+
+Altas usuarios tutores
+
+
+insert into usuarios values(0,'584553','9f803cb581b487db766736b3779a3d1d','tutor','29134814R',now(),'73');
+insert into tutores values('32739','584553','TERESA','MARTINEZ','IFC303','jun18','LOE','29134814R','581');
+
+
+ESTADISTICAS
+------------------
+Para obtener las estadísticas debe realizarse la consulta directa a la tabla de respuestas con los siguientes campos:
+
+	provincia	grado	ciclo	fct	tramilia trabaja	relacionado	contrato	mismempresa
+
+Para ver los datos de laumnos que han respondido al menos a una de las preguntas (aparte de la de FCT)
+La consulta será:
+
+select a.idalumnofct, c.nombre_provincia as provincia,ci.grado as grado,ci.codciclo,substr(ci.codciclo,1,3) as familia,fct,trabaja,relacionado,contrato,mismaempresa,fecha_nacimiento from respuestas r, alumnos a, centros c,ciclos ci  where ci.idciclofct=a.idciclofct and r.idalumnofct=a.idalumnofct and a.idcentro=c.idcentrofct and r.periodo='dic17' and fct is not null and trabaja!='NSNC' into outfile '/tmp/insdic17.csv' FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n';
+
+
+
+
+
+Y para un centro en particular:
+
+select a.idalumnofct as idalumno,c.provincia as provincia,ci.grado as grado,ci.codciclo,fct,trabaja,relacionado,contrato,mismaempresa from respuestas r, alumnos a, centros c,ciclos ci where ci.idciclofct=a.idciclofct and r.idalumnofct=a.idalumnofct and a.idcentro=c.idcentrofct and r.periodo='jun18' and FCT is not null and trabaja!='NSNC' and c.idcentrofct='89' into outfile '/tmp/tiemposmodernosjun18.csv' FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n';
+
+En el csv debe modificarse el campo provincia para cambiarla por ZARAGOZA (50), HUESCA (22) y TERUEL (44) y convertirlo a excel.
+Los datos generados en csv se copian al fichero plantilla y se actualizan las tablas dinámicas. Para ello hay que tener en cuenta el origen de datos ya que va a cambiar y no se verían reflejados todos los datos. 
+
+Hay que generar las familias en un nuevo campo de excel usando la función LEFT o IZQUIERDA para obtener el código.
+
+añadimos los campos en el mismo csv
+
+'provincia','grado','codciclo','realiza fct','situacion laboral','trabajo relacionado?','contrato','mismaempresa','periodo' 
+
+
+DATOS GLOBALES
+...............................
+
+#Número de alumnos inscritos en FCTs en un periodo determinado:
+
+select count(*) from alumnos where periodo='jun18';
+
+#Número de alumnos que han respondido encuestas:
+
+Incluyendo a los que han contestado a encuestas
+
+select count(*) from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and r.periodo='jun18' and trabaja!='NSNC';
+
+ 
+
+Por provincias
+
+select count(*) from respuestas r, alumnos a, centros c where  r.idalumnofct=a.idalumnofct and a.idcentro=c.idcentrofct and r.periodo='jun18' and fct is not null and trabaja!='NSNC' and provincia='44';
+
+
+
+#Numero de alumnos que han finalizado FCTs
+
+select count(*) from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and r.periodo='jun18' and FCT!='NO';
+
+
+
+Por provincias
+	select count(*) from respuestas r, alumnos a,centros cen where cen.idcentrofct=a.idcentro and  r.idalumnofct=a.idalumnofct and  r.periodo='jun18' and FCT='SI' and provincia='50';
+
+
+#Numero de alumnos que han finalizado FCTs y han respondido encuestas
+
+select count(*) from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and r.periodo='jun18' and FCT!='NO' and trabaja!='NSNC';
+
+#Numero de alumnos que han finalizado FCTs y estudian a los 6 meses
+Si contemplamos alumnos que hayan podido no responder a FCT pero si al resto
+
+select count(*) from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and  r.periodo='jun18' and FCT!='NO' and trabaja='ESTUDIA';
+
+
+select count(*) from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and  r.periodo='jun18' and FCT='SI' and trabaja='ESTUDIA'
+
+	Por provincia
+
+	select count(*) from respuestas r, alumnos a,centros cen where cen.idcentrofct=a.idcentro and  r.idalumnofct=a.idalumnofct and  r.periodo='jun18' and FCT='SI' and trabaja='ESTUDIA' and provincia='50'
+
+#Número de alumnos que trabajan a los 6 meses
+
+select count(*) from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and  r.periodo='jun18' and FCT='SI' and trabaja='TRABAJA';
+
+
+Por provincias
+
+	select count(*) from respuestas r, alumnos a, centros cen where cen.idcentrofct=a.idcentro and  r.idalumnofct=a.idalumnofct and  r.periodo='dic17' and FCT='SI' and trabaja='TRABAJA' and provincia='22';
+
+
+
+#Número de alumnos en desempleo a los 6 meses
+select count(*) from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and  r.periodo='jun18' and FCT='SI' and trabaja='EN DESEMPLEO';
+
+Por provincias
+
+select count(*) from respuestas r, alumnos a,centros cen where cen.idcentrofct=a.idcentro and r.idalumnofct=a.idalumnofct and  r.periodo='jun18' and FCT='SI' and trabaja='EN DESEMPLEO' and provincia='50';
+
+#Número de alumnos que trabajan a los 6 meses en algo relacionado
+select count(*) from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and  r.periodo='dic17' and FCT='SI' and trabaja='TRABAJA' and relacionado='SI';
+
+Por provincia
+
+select count(*) from respuestas r, alumnos a,centros cen where cen.idcentrofct=a.idcentro and  r.idalumnofct=a.idalumnofct and  r.periodo='jun18' and FCT='SI' and trabaja='TRABAJA' and relacionado='SI' and provincia='50';
+
+select count(*) from respuestas r, alumnos a, centros c,ciclos ci where ci.idciclofct=a.idciclofct and r.idalumnofct=a.idalumnofct and a.idcentro=c.idcentrofct and r.periodo='jun18' and (FCT is not null or trabaja is not null or contrato!='NSNC' or mismaempresa!='NSNC' or relacionado!='NSNC');
+
+
+
+
+
+
+
+

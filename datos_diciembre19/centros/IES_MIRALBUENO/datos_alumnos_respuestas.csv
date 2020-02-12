@@ -1,0 +1,136 @@
+"fecha fct","nombre","primer_apellido","segundo apellido","telefono","email","codigo ciclo","denominacion ciclo","provincia","grado","fct","trabaja","relacionado con el estudio","tipo de contrato","misma empresa"
+"jun19","Isabel","González","Sampietro","","","HOT203","SERVICIOS EN RESTAURACIÓN","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Belén","Lizaga","Gracia","","","HOT203","SERVICIOS EN RESTAURACIÓN","50","MEDIO","SI","TRABAJA","SI","FIJO","NO"
+"jun19","Wiam","Ouzzine","","","","HOT203","SERVICIOS EN RESTAURACIÓN","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Nerea","Giménez","Rubio","","","HOT203","SERVICIOS EN RESTAURACIÓN","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Juan","Pérez","Toril","","","HOT203","SERVICIOS EN RESTAURACIÓN","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Marta","Martín","Jiménez","","","HOT203","SERVICIOS EN RESTAURACIÓN","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Darian","Martín","Gil","","","HOT304","DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","María de los Milagros","Yagüe","Carmona","","","HOT304","DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"jun19","Silvia","Cano","García","","","HOT304","DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Guillermo","Moliner","Sáez","","","HOT304","DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Eric","López","Lázaro","","","HOT304","DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN","50","SUPERIOR","SI","TRABAJA","SI","FIJO","SI"
+"jun19","Ana","Gil","Benedí","","","HOT304","DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"jun19","Diego","Ortigas","Castán","","","HOT304","DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"jun19","Marta","Aznar","Martínez","","","HOT304","DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN","50","SUPERIOR","SI","TRABAJA","SI","NSNC","SI"
+"jun19","Wilmer Bladimir","Bautista","Bautista","","","HOT201","COCINA Y GASTRONOMÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Adrián","Secanella","Fernández de Heredia","","","HOT201","COCINA Y GASTRONOMÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","David","Aranda","Tomey","","","HOT201","COCINA Y GASTRONOMÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Ainhoa","Pérez","Peña","","","HOT201","COCINA Y GASTRONOMÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Alex-Mihai","Pintea","","","","HOT201","COCINA Y GASTRONOMÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Sandra María","Militaru","","","","HOT201","COCINA Y GASTRONOMÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Miguel Ángel","Camino","Vico","","","HOT201","COCINA Y GASTRONOMÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Mouhamadou Lamine","Ndiaye","","","","HOT201","COCINA Y GASTRONOMÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Paula","Bastor","Alamán","","","HOT201","COCINA Y GASTRONOMÍA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","David","Soto","Pérez","","","EOC303","ORGANIZACIÓN Y CONTROL DE OBRAS DE CONSTRUCCIÓN","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Marcos","Navarro","Portolés","","","EOC303","ORGANIZACIÓN Y CONTROL DE OBRAS DE CONSTRUCCIÓN","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Jesús","Sánchez","Sancho","","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Mario","Muro","González","","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Adrián","López","Lope","","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Ángel","Martínez","Villanueva","","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Miriam","Latre","Navarro","","","EOC201","OBRAS DE INTERIOR, DECORACIÓN Y REHABILITACIÓN","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Carlos","Ruiz","Moure","","","EOC201","OBRAS DE INTERIOR, DECORACIÓN Y REHABILITACIÓN","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Adrián","Heredia","Aranda","","","EOC201","OBRAS DE INTERIOR, DECORACIÓN Y REHABILITACIÓN","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Irene","Asensio","Gracia","","","EOC201","OBRAS DE INTERIOR, DECORACIÓN Y REHABILITACIÓN","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Andrea","Puyo","Delgado","","","EOC201","OBRAS DE INTERIOR, DECORACIÓN Y REHABILITACIÓN","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Alba","Alejandre","Soto","","","EOC201","OBRAS DE INTERIOR, DECORACIÓN Y REHABILITACIÓN","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Ismael","Torres","Thupari","","","EOC201","OBRAS DE INTERIOR, DECORACIÓN Y REHABILITACIÓN","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Ylenia","Gutiérrez","Mora","","","EOC201","OBRAS DE INTERIOR, DECORACIÓN Y REHABILITACIÓN","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Adrián","Blocona","Antorán","","","EOC201","OBRAS DE INTERIOR, DECORACIÓN Y REHABILITACIÓN","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Jaime","Díez","Pina","","","EOC201","OBRAS DE INTERIOR, DECORACIÓN Y REHABILITACIÓN","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Alejandro","Mozota","Perales","","","EOC201","OBRAS DE INTERIOR, DECORACIÓN Y REHABILITACIÓN","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","ELOY","AZNAR","BANDRES","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","TRABAJA","NO","OTRO","NO"
+"jun19","Minerva","Olmedo","Aznar","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"jun19","Isabel","López","Clavería","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","TRABAJA","NO","OTRO","NO"
+"jun19","Andrea","López","Rubio","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Carolina","Rincón","López","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun19","Nerea","Egea","Fernández","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","María","Lorbés","Unzueta","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","TRABAJA","NO","OTRO","NO"
+"jun19","Andrea Alejandra","Perozo","Lafuente","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","TRABAJA","NO","OTRO","NO"
+"jun19","Rocío Pilar","Mateo","Tremps","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Diego","Sumelzo","Monge","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","Cristina","Gracia","Guillamón","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Víctor","Zickenheiner","Llamas","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","David","Omeñaca","Tomás","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Iván","Gil","Ruiz","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Silvia","Femia","Valle","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Marina","Teixeira","Ruíz","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Patricia","Roc","Puey","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Adrián","Navarrete","Romanillos","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Marta María","Mendivil","de Pablo","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Cristina Noemí","Paredes","Villalba","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Mario","Duarte","Mendoza","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Francisco Alejandro","Sánchez","Gutiérrez","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","Rubén","Adán","Salazar","","","FPB105","COCINA Y RESTAURACIÓN","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Iván","Porta","Astashkevych","","","FPB105","COCINA Y RESTAURACIÓN","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Vaitiare","Ramírez","Baladrón","","","FPB105","COCINA Y RESTAURACIÓN","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Raquel","Morote","López","","","FPB105","COCINA Y RESTAURACIÓN","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Juan Carlos","Tiestos","Alguacil","","","FPB105","COCINA Y RESTAURACIÓN","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Ninive Renne","Benavides","Orellana","","","FPB105","COCINA Y RESTAURACIÓN","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Skarleth Michell","Cardona","Mejía","","","FPB105","COCINA Y RESTAURACIÓN","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Axel Ariel","Macías","Coello","","","FPB105","COCINA Y RESTAURACIÓN","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Bruno","Cardona","Gadea","","","FPB105","COCINA Y RESTAURACIÓN","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Cristina","Gil","Fernández","","","FPB105","COCINA Y RESTAURACIÓN","50","BASICA",\N,\N,\N,\N,\N
+"jun19","José Ignacio","Sanjuan","Carrasco","","","FPB105","COCINA Y RESTAURACIÓN","50","BASICA",\N,\N,\N,\N,\N
+"dic18","LETICIA","LÓPEZ","MUÑOZ","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"jun19","RAÚL","ALCUBIERRE","LABARTA","","","HOT301","AGENCIAS DE VIAJES Y GESTIÓN DE EVENTOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"dic18","Lucía  ","Loscertales","Monforte","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"dic18","DESISLAVA","DIMITROVA","DIMITROVA","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"dic18","María Teresa","Félez","Aguado","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","TRABAJA","NO","OTRO","NO"
+"dic18","Pilar ","Martínez","Solana","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"dic18","Sara","Guillén","Pérez","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"dic18","ANDRÉS ","PINILLA","GÓMEZ","","","TMV201","CARROCERÍA","50","MEDIO","SI","TRABAJA","SI","OTRO","NO"
+"dic18","DIEGO","BOSQUED","PELLEJERO","","","TMV201","CARROCERÍA","50","MEDIO","SI","EN DESEMPLEO",\N,\N,\N
+"dic18","Silvia Georgiana ","Cirstea","","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"dic18","Daneslay","Iríbar","Rodríguez","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"dic18","MARÍA","CATALÁN","UBAU","626589169","MARIACATALANUBAU@HOTMAIL.COM","HOT301","AGENCIAS DE VIAJES Y GESTIÓN DE EVENTOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"jun19","ELENA MARÍA","GARCÍA","SANZ","656348947","ELENAGARCIASANZ@HOTMAIL.COM","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","TRABAJA","NO","OTRO","NO"
+"dic18","LUIS ALFONSO","GARRIDO ","DE RUEDA","600760010","FONSYGARRY91@GMAIL.COM","HOT301","AGENCIAS DE VIAJES Y GESTIÓN DE EVENTOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"jun19","JOSÉ JAVIER","ALONSO","BARRIO","627227318","JAVIPENUMBRA@HOTMAIL.COM","HOT301","AGENCIAS DE VIAJES Y GESTIÓN DE EVENTOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"dic18","PAULA ANGÉLICA","AROCA","GONZÁLEZ","696125784","PAULA.AROCA@ICLOUD.COM","HOT301","AGENCIAS DE VIAJES Y GESTIÓN DE EVENTOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"jun19","MARÍA DEL MAR","HERNÁNDEZ","JIMÉNEZ","609654242","INSTIMARA@GMAIL.COM","HOT301","AGENCIAS DE VIAJES Y GESTIÓN DE EVENTOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"dic18","María Denisa","Badila","","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","TRABAJA","SI","FIJO","NO"
+"dic18","AITOR","Carreira","SERRANO","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","ADRIAN","CONDEI","","627035415","","TMV202","ELECTROMECÁNICA DE VEHÍCULOS AUTOMÓVILES","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Maricarmen "," Paracuellos","de Rio","661113812","IBANEZPARACUELLOS@HOTMAIL.COM","TMV202","ELECTROMECÁNICA DE VEHÍCULOS AUTOMÓVILES","50","MEDIO",\N,\N,\N,\N,\N
+"dic18","SANDRA","GONZALEZ","VILLANUEVA","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","DAVID","PLAZA","GUALLAR","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","GUILLERMO","MIRANDA","GARCIA","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","SAMUEL","OSORES","CASTAÑEDA","","","HOT305","DIRECCIÓN DE COCINA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","SHIRLEY","MOREIRA","COYAGO","665042413","SHIRLEY-MOREIRA2210@GMAIL.COM","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"dic18","LUCÍA","SASOT","CEBRIÁN","","","HOT201","COCINA Y GASTRONOMÍA","50","MEDIO",\N,\N,\N,\N,\N
+"dic18","KEVIN","COTORÉ","GÓMEZ","610861914","","HOT201","COCINA Y GASTRONOMÍA","50","MEDIO",\N,\N,\N,\N,\N
+"dic18","DANIEL","RUIZ","ESTELA","678384657","","HOT201","COCINA Y GASTRONOMÍA","50","MEDIO",\N,\N,\N,\N,\N
+"dic18","DANIEL","ROEL","DEL RÍO"," 663820734","","HOT201","COCINA Y GASTRONOMÍA","50","MEDIO",\N,\N,\N,\N,\N
+"dic18","Guillermo","Cárcamo","Molinero","","","HOT304","DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","Ignacio","Bona","Alcalde","","","HOT304","DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","Braian Johnson","Teixeira","Ruíz","","","HOT304","DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","Samuel Domingo","Serrano","Ezquerra","","","HOT304","DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun19","ARÁNZAZU","COLUMBRERE","MAIRAL","609237790","ARANCHITAJACA@HOTMAIL.COM","HOT301","AGENCIAS DE VIAJES Y GESTIÓN DE EVENTOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"jun19","ADRIANA LAURA","URDA","","722776097","ADRIANALAURA2013@GMAIL.COM","HOT301","AGENCIAS DE VIAJES Y GESTIÓN DE EVENTOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"jun19","SARA","TORRES","AZAGRA","","","HOT302","GESTIÓN DE ALOJAMIENTOS TURÍSTICOS","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"dic18","DESIREE","CAMUÑAS ","BUENO","","","HOT201","COCINA Y GASTRONOMÍA","50","MEDIO",\N,\N,\N,\N,\N
+"dic18","GERMÁN","ANDREA","PINILLA","","","FPB103","FABRICACIÓN Y MONTAJE","50","BASICA",\N,\N,\N,\N,\N
+"dic18","ANDREA","BLANCO","ROCHE","","","EOC201","OBRAS DE INTERIOR, DECORACIÓN Y REHABILITACIÓN","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","DANIEL","DOMÍNGUEZ","TABARES","","","FME203","SOLDADURA Y CALDERERÍA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","FERNANDO","BERNABEU","BAZÁN","","","FME203","SOLDADURA Y CALDERERÍA","50","MEDIO","SI","TRABAJA","NO","FIJO","NO"
+"jun19","RUBEN","INSA","BLASCO","","","FME203","SOLDADURA Y CALDERERÍA","50","MEDIO","SI","TRABAJA","SI","OTRO","NO"
+"jun19","IGNACIO","LÓPEZ","LAJUSTICIA","","","FME203","SOLDADURA Y CALDERERÍA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","IVÁN","MARTÍN","RUIZ","","","FME203","SOLDADURA Y CALDERERÍA","50","MEDIO","SI","TRABAJA","SI","OTRO","SI"
+"jun19","AITOR","MORENO","CAMPOS","","","FME203","SOLDADURA Y CALDERERÍA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","EDUARDO","ABAD","MARCOS","","","FME301","CONSTRUCCIONES METÁLICAS","50","SUPERIOR","SI","TRABAJA","SI","FIJO","SI"
+"jun19","ANTONIO","ADIEGO","MUÑOZ","","","FME301","CONSTRUCCIONES METÁLICAS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","DAVID","ALONSO","RUEDA","","","FME301","CONSTRUCCIONES METÁLICAS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun19","MIGUEL ÁNGEL","GASCÓN","ARTIGAS","","","FME301","CONSTRUCCIONES METÁLICAS","50","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"jun19","YERAY","GRACIA","ALONSO","","","FME301","CONSTRUCCIONES METÁLICAS","50","SUPERIOR","SI","TRABAJA","NO","OTRO","NO"
+"jun19","ENRIQUE","MARIN","HERNANDEZ","","","FME301","CONSTRUCCIONES METÁLICAS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun19","DANIEL","MUÑOZ","QUEROL","","","FME301","CONSTRUCCIONES METÁLICAS","50","SUPERIOR","SI","TRABAJA","SI","FIJO","SI"
+"jun19","JORGE","ROLDAN","NARVIÓN","","","FME301","CONSTRUCCIONES METÁLICAS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun19","ERNESTO JOSÉ","SUAZO","BARAHONA","","","FME301","CONSTRUCCIONES METÁLICAS","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","Manuel",\N,\N,"976593184","655302080","TMV201","CARROCERÍA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Víctor",\N,\N,"615724533","722215221","TMV201","CARROCERÍA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Miguel Ángel",\N,\N,"610618948","655051830","TMV201","CARROCERÍA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Alejandro Giovanny",\N,\N,"635948727","635948727","TMV201","CARROCERÍA","50","MEDIO","EXENTO","TRABAJA","SI","FIJO","NO"
+"jun19","Fernando ",\N,\N,"692999970","","FME203","SOLDADURA Y CALDERERÍA","50","MEDIO","SI","TRABAJA","NO","FIJO","NO"
+"dic18"," Sara ",\N,\N,"","toquiblascosara@gmail.com","HOT203","SERVICIOS EN RESTAURACIÓN","50","MEDIO","EXENTO","NSNC",\N,\N,\N
+"dic18","Mario",\N,\N,"","marioacr12@gmail.com","HOT203","SERVICIOS EN RESTAURACIÓN","50","MEDIO","EXENTO","NSNC",\N,\N,\N

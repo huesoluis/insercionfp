@@ -1,0 +1,80 @@
+<?php 
+ 
+class AccesoQueryResults {
+     
+  private $_results = array();
+ 
+  public function __construct(){}
+ 
+  public function __set($var,$val){
+    $this->_results[$var] = $val;
+  }
+ 
+  public function __get($var){  
+    if (isset($this->_results[$var])){
+      return $this->_results[$var];
+    }
+    else{
+      return null;
+    }
+  }
+}
+ 
+class ACCESO {
+   public $c; 
+  public function __construct(){
+    	$this->c = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD)
+        or die ("<br/>Could not connect to MySQL server");
+    
+	$this->c->set_charset("utf8");
+	mysqli_select_db($this->c,DB_DB);
+	}
+   
+  public function get_models_by_make_name($name){
+    $sql = "SELECT models.id as id, models.name as name, makes.name as make FROM models INNER JOIN makes ON models.make=makes.id WHERE makes.name='$name'";
+    return $this->query($this->c,$sql);
+  }
+   
+  private function dbconnect() {
+    $conn = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD)
+        or die ("<br/>Could not connect to MySQL server");
+    $this->c=$conn;     
+    mysqli_select_db($conn,DB_DB)
+        or die ("<br/>Could not select the indicated database");
+     
+    return $conn;
+  }
+   
+  public function query($vc,$sql){
+ 
+    $res = mysqli_query($vc,$sql);
+    if ($res){
+      if (strpos($sql,'SELECT') === false){
+        return true;
+      }
+    }
+    else{
+      if (strpos($sql,'SELECT') === false){
+        return false;
+      }
+      else{
+        return null;
+      }
+    }
+ 
+    $results = array();
+    while ($row = mysqli_fetch_array($res)){
+ 
+      $result = new AccesoQueryResults();
+ 
+      foreach ($row as $k=>$v){
+        $result->$k = $v;
+      }
+ 
+      $results[] = $result;
+    }
+    return $results;        
+  }  
+}
+ 
+?>

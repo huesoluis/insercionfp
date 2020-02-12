@@ -1,0 +1,13 @@
+"fecha fct","nombre","primer_apellido","segundo apellido","telefono","email","codigo ciclo","denominacion ciclo","provincia","grado","fct","trabaja","relacionado con el estudio","tipo de contrato","misma empresa"
+"jun19","Claudia","SISTAC","ROCASPANA","","","ADG301","ADMINISTRACION Y FINANZAS","22","SUPERIOR","SI","TRABAJA","SI","FIJO","SI"
+"jun19","Paula","ESCALA","ESCAPA","","","ADG301","ADMINISTRACION Y FINANZAS","22","SUPERIOR","SI","TRABAJA","SI","FIJO","SI"
+"jun19","Jesús","URRACA","BURBALLA","","","ADG301","ADMINISTRACION Y FINANZAS","22","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","Jose Manuel","LÓPEZ","BRAZO","","","ADG301","ADMINISTRACION Y FINANZAS","22","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun19","Tarik","BENZINA","","","","ADG301","ADMINISTRACION Y FINANZAS","22","SUPERIOR","SI","TRABAJA","NO","OTRO","NO"
+"jun19","Antonia","TOSCANO","BUJO","","","ADG201","GESTION ADMINISTRATIVA","22","MEDIO",\N,\N,\N,\N,\N
+"jun19","Lorena","GAVIN","CARRAZANA","","","ADG201","GESTION ADMINISTRATIVA","22","MEDIO",\N,\N,\N,\N,\N
+"jun19","Sandra","LÓPEZ","BUIL","","","ADG201","GESTION ADMINISTRATIVA","22","MEDIO",\N,\N,\N,\N,\N
+"jun19","Sirley Anais","SOTO","QUISPE","","","ADG201","GESTION ADMINISTRATIVA","22","MEDIO",\N,\N,\N,\N,\N
+"jun19","SANTIAGO","SIERRA","SEGURA","695063026","SANTIAGOSISE@GMAIL.COM","ADG301","ADMINISTRACION Y FINANZAS","22","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"dic18","SANTIAGO","ALARCÓN","TUAPANTA","635264216","ALARCON.SANTIAGO13@GMAIL.COM","ADG301","ADMINISTRACION Y FINANZAS","22","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun19","VERÓNICA",\N,\N,"616363934","verofresnedap@gmail.com","ADG301","ADMINISTRACION Y FINANZAS","22","SUPERIOR","EXENTO","TRABAJA","SI","OTRO","NO"

@@ -1,0 +1,45 @@
+"fecha fct","nombre","primer_apellido","segundo apellido","telefono","email","codigo ciclo","denominacion ciclo","provincia","grado","fct","trabaja","relacionado con el estudio","tipo de contrato","misma empresa"
+"jun19","ELENA","MONTEAGUDO","BUENO","","","SSC201","ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA","50","MEDIO","SI","NSNC",\N,\N,\N
+"jun19","CARMEN","GREGORIO","BERMEJO","","","SSC201","ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Sandra","Marín","De Las Heras","","","SSC201","ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Silia","Kacimi","Bentamar","","","SSC201","ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","María Luz","Pérez","Destre","","","SSC201","ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA","50","MEDIO","SI","TRABAJA","SI","FIJO","SI"
+"jun19","MARÍA","LAJUSTICIA","SANTACASILDA","","","SSC201","ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA","50","MEDIO","SI","TRABAJA","SI","OTRO","NO"
+"jun19","María","Fuentes","Hernández","","","SSC201","ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Lucía","Arrué","Clemente","","","SSC201","ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","ALBA","REVIRIEGO","AGUSTÍN","","","SSC201","ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","ALEXIA","Duce","Bernal","","","SSC201","ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","Fernando","CRISTÓBAL","MONTERDE","","","SSC201","ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA","50","MEDIO","SI","TRABAJA","SI","AUTONOMO","NO"
+"jun19","SILVIA RAQUEL","MBA","NKOGO","","","SSC201","ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","MARÍA","GONZÁLEZ","RUIZ","","","SSC201","ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA","50","MEDIO","SI","TRABAJA","SI","OTRO","NO"
+"dic18","Ouijdane","Abboubi","","","","SAN201","CUIDADOS AUXILIARES DE ENFERMERÍA","50","MEDIO","SI","NSNC",\N,\N,\N
+"dic18","Paula","Carrasco","","","","SAN201","CUIDADOS AUXILIARES DE ENFERMERÍA","50","MEDIO","SI","TRABAJA","NO","FIJO","NO"
+"dic18","Adraa","Ettamimi","","","","SAN201","CUIDADOS AUXILIARES DE ENFERMERÍA","50","MEDIO","SI","NSNC",\N,\N,\N
+"dic18","Mariana","Faur","","","","SAN201","CUIDADOS AUXILIARES DE ENFERMERÍA","50","MEDIO","SI","NSNC",\N,\N,\N
+"dic18","María Pilar","Gil","","","","SAN201","CUIDADOS AUXILIARES DE ENFERMERÍA","50","MEDIO","SI","TRABAJA","SI","OTRO","SI"
+"dic18","Ángela ","Herreruela","","","","SAN201","CUIDADOS AUXILIARES DE ENFERMERÍA","50","MEDIO","SI","EN DESEMPLEO",\N,\N,\N
+"dic18","Natalia","Martinez","","","","SAN201","CUIDADOS AUXILIARES DE ENFERMERÍA","50","MEDIO","SI","TRABAJA","SI","OTRO","SI"
+"dic18","Ana Ramos","Martínez de Quel","","","","SAN201","CUIDADOS AUXILIARES DE ENFERMERÍA","50","MEDIO","SI","TRABAJA","NO","OTRO","NO"
+"dic18","Lenke","Mate","","","","SAN201","CUIDADOS AUXILIARES DE ENFERMERÍA","50","MEDIO","SI","TRABAJA","SI","OTRO","SI"
+"dic18","Francisco Javier","Milla","","","","SAN201","CUIDADOS AUXILIARES DE ENFERMERÍA","50","MEDIO","SI","TRABAJA","NO","FIJO","NO"
+"dic18","Sheila","Morales","","","","SAN201","CUIDADOS AUXILIARES DE ENFERMERÍA","50","MEDIO","SI","EN DESEMPLEO",\N,\N,\N
+"dic18","Raquel","Sánchez","","","","SAN201","CUIDADOS AUXILIARES DE ENFERMERÍA","50","MEDIO","SI","TRABAJA","NO","OTRO","NO"
+"dic18","Pilar","Soler","","","","SAN201","CUIDADOS AUXILIARES DE ENFERMERÍA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"dic18","María Pilar","Tirado","","","","SAN201","CUIDADOS AUXILIARES DE ENFERMERÍA","50","MEDIO","SI","TRABAJA","NO","FIJO","NO"
+"dic18","Pablo","AHUIR","ARGUEDAS","","","IFC201","SISTEMAS MICROINFORMÁTICOS Y REDES","50","MEDIO",\N,\N,\N,\N,\N
+"dic18","Efrén","MARCO","ZABALLOS","","","IFC201","SISTEMAS MICROINFORMÁTICOS Y REDES","50","MEDIO",\N,\N,\N,\N,\N
+"dic18","Sergiu Emanuel","BERDIE","","","","IFC201","SISTEMAS MICROINFORMÁTICOS Y REDES","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","JORGE","Sanz","Guillén","","","IFC201","SISTEMAS MICROINFORMÁTICOS Y REDES","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","ALBERTO","Lucia","Bueno","","","IFC201","SISTEMAS MICROINFORMÁTICOS Y REDES","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","IVÁN","Fistarol","Ruiz","","","IFC201","SISTEMAS MICROINFORMÁTICOS Y REDES","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","ALEJANDRO","Marín","Muntadas","","","IFC201","SISTEMAS MICROINFORMÁTICOS Y REDES","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","LUIS","Aldea","Diez","","","IFC201","SISTEMAS MICROINFORMÁTICOS Y REDES","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","JOSÉ MANUEL","Pousa","Blanco","","","IFC201","SISTEMAS MICROINFORMÁTICOS Y REDES","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun19","FRANCISCO","Hernández","Sabirón","","","IFC201","SISTEMAS MICROINFORMÁTICOS Y REDES","50","MEDIO","SI","TRABAJA","SI","OTRO","NO"
+"dic18","MARÍA","RUBIO","VILLA","","","SSC201","ATENCIÓN SOCIOSANITARIA","50","MEDIO",\N,\N,\N,\N,\N
+"dic18","Noelia","Serrano","Gil","","","SSC201","ATENCIÓN SOCIOSANITARIA","50","MEDIO",\N,\N,\N,\N,\N
+"dic18","Sofía","Martín","Tejero","","","SSC201","ATENCIÓN SOCIOSANITARIA","50","MEDIO",\N,\N,\N,\N,\N
+"jun19","Ángel","Alonso","Macarro","","","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Nacho","Castejón","Morales","","","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Ángela","Germán","Vera","","","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA",\N,\N,\N,\N,\N
+"jun19","Lorena","San Evaristo","Asín","","","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA",\N,\N,\N,\N,\N

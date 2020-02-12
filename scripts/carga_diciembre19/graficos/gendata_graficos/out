@@ -1,0 +1,88 @@
+SELECT count(*) nafct from alumnos a, centros c where a.idcentrofct=c.idcentrofct and  fecha_fct='jun19'
+SELECT count(*) nafct from  alumnos a left join respuestas r on  r.idalumnofct=a.idalumnofct where r.periodo='6m' and trabaja!='NSNC'
+SELECT count(*) nafct from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and r.periodo='6m'  and trabaja='ESTUDIA'
+SELECT count(*) nafct from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and r.periodo='6m'  and trabaja='TRABAJA'
+SELECT count(*) nafct from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and r.periodo='6m'  and trabaja='EN DESEMPLEO'
+SELECT count(*) nafct from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and r.periodo='6m'  and trabaja='TRABAJA' and relacionado='SI'
+no copiadoescribiendo fichero ../../../../datos_diciembre19/globales/6m/datos_global.csvCONSULTA: trabaja-desempleo
+
+SELECT t2.grado as 'GRADO',ifnull( ifnull(t3.des,0)/(ifnull(t3.des,0)+ifnull(t2.tra,0))*100,0) as 'DESEMPLEO',ifnull(t2.tra,0)/ifnull((t3.des+t2.tra),1)*100 as 'TRABAJA' from ( select grado,count(*) as tra from respuestas r, alumnos a,ciclos c,centros cen where cen.idcentrofct=a.idcentrofct and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m'  and  trabaja='TRABAJA'   group by grado ) as t2 LEFT JOIN ( select grado,count(*) as des from respuestas r, alumnos a,ciclos c,centros cen where cen.idcentrofct=a.idcentrofct and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m'  and  trabaja='EN DESEMPLEO'   group by grado ) as t3 on t3.grado=t2.grado
+
+UNION ALL
+
+SELECT t2.grado as 'GRADO',ifnull( ifnull(t3.des,0)/(ifnull(t3.des,0)+ifnull(t2.tra,0))*100,0) as 'DESEMPLEO',ifnull(t2.tra,0)/ifnull((t3.des+t2.tra),1)*100 as 'TRABAJA' from ( select grado,count(*) as tra from respuestas r, alumnos a,ciclos c,centros cen where cen.idcentrofct=a.idcentrofct and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m'  and  trabaja='TRABAJA'  and a.idcentrofct='73' group by grado ) as t2 RIGHT JOIN ( select grado,count(*) as des from respuestas r, alumnos a,ciclos c,centros cen where cen.idcentrofct=a.idcentrofct and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m'  and  trabaja='EN DESEMPLEO' and a.idcentrofct='73'  group by grado ) as t3 on t3.grado=t2.grado 
+where t2.grado is null or t3.grado is null
+CONSULTA: trabaja-relacionado
+
+SELECT t2.grado as 'GRADO', t3.rel/t2.tra*100 as 'TRABAJO RELACIONADO' from 
+( select grado,count(*) as tra from respuestas r, alumnos a,ciclos c where c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m' and  trabaja='TRABAJA'  group by grado ) as t2 
+LEFT JOIN 
+( select grado,count(*) as rel from respuestas r, alumnos a,ciclos c where c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m' and trabaja='TRABAJA'  and relacionado='SI' group by grado ) as t3 
+on t2.grado=t3.gradoCONSULTA: trabaja-porfamilias
+
+SELECT replace(t1.familia,',','') as 'FAMILIA', ifnull(t2.des/(ifnull(t2.des,0)+ifnull(t1.tra,0))*100,0) as 'DESEMPLEOPORFAMILIAS' , ifnull(t1.tra/(ifnull(t1.tra,0)+ifnull(t2.des,0))*100,0)  as 'TRABAJOPORFAMILIAS' from ( select familia,count(*) as tra from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where a.idcentrofct=cen.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m' and  trabaja='TRABAJA'   group by familia) as t1 LEFT JOIN ( select familia,count(*) as des from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where cen.idcentrofct=a.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m' and  trabaja='EN DESEMPLEO'  group by familia) as t2 on t1.familia=t2.familia
+UNION ALL
+SELECT replace(t1.familia,',','') as 'FAMILIA', ifnull(t2.des/(ifnull(t2.des,0)+ifnull(t1.tra,0))*100,0) as 'DESEMPLEOPORFAMILIAS' ,ifnull(t1.tra/(ifnull(t1.tra,0)+ifnull(t2.des,0))*100,0)  as 'TRABAJOPORFAMILIAS' from ( select familia,count(*) as tra from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where a.idcentrofct=cen.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m' and  trabaja='TRABAJA'  group by familia) as t1 RIGHT JOIN ( select familia,count(*) as des from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where cen.idcentrofct=a.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m' and  trabaja='EN DESEMPLEO'  group by familia) as t2 on t1.familia=t2.familia
+where t1.familia is null or t2.familia is null
+
+SELECT replace(t1.familia,',','') as 'FAMILIA',  ifnull( t1.rel/(ifnull(t2.tra,0))*100,0)  as 'TRABAJORELACIONADOPORFAMILIAS' from ( select familia,count(*) as rel from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where a.idcentrofct=cen.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m' and  trabaja='TRABAJA' and relacionado='SI'  group by familia) as t1 LEFT JOIN ( select familia,count(*) as tra from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where cen.idcentrofct=a.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m' and  trabaja='TRABAJA'  group by familia) as t2 on t1.familia=t2.familia
+order by TRABAJORELACIONADOPORFAMILIAS desc
+
+SELECT replace(t1.nombrecentro,',','') as 'CENTRO', t2.des/(t2.des+t1.tra)*100 as 'DESEMPLEOPORCENTROS' , t1.tra/(t1.tra+t2.des)*100 as 'TRABAJOPORCENTROS' from 
+( select nombrecentro,count(*) as tra from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where cen.idcentrofct=a.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m' and  trabaja='TRABAJA' and FCT!='NO' group by a.idcentrofct) as t1
+LEFT JOIN 
+( select nombrecentro,count(*) as des from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where cen.idcentrofct=a.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m' and  trabaja='EN DESEMPLEO' and FCT!='NO' group by cen.idcentrofct) as t2 
+on t1.nombrecentro=t2.nombrecentro 
+and t1.tra is not null
+and t2.des is not null
+order by TRABAJOPORCENTROS desc
+SELECT replace(t1.nombrecentro,',','') as 'CENTRO', t2.rel/(t1.tra)*100 as 'RELACIONADOPORCENTROS'  from 
+( select nombrecentro,a.idcentrofct,count(*) as tra from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where cen.idcentrofct=a.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m' and  trabaja='TRABAJA' group by a.idcentrofct) as t1
+LEFT JOIN 
+( select nombrecentro,a.idcentrofct,count(*) as rel from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where cen.idcentrofct=a.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='6m' and  trabaja='TRABAJA'  and relacionado='SI' group by a.idcentrofct) as t2 
+on t1.idcentrofct=t2.idcentrofct 
+and t1.tra is not null
+and t2.rel is not null
+order by RELACIONADOPORCENTROS descSELECT count(*) nafct from alumnos a, centros c where a.idcentrofct=c.idcentrofct and  fecha_fct='dic18'
+SELECT count(*) nafct from  alumnos a left join respuestas r on  r.idalumnofct=a.idalumnofct where r.periodo='12m' and trabaja!='NSNC'
+SELECT count(*) nafct from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and r.periodo='12m'  and trabaja='ESTUDIA'
+SELECT count(*) nafct from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and r.periodo='12m'  and trabaja='TRABAJA'
+SELECT count(*) nafct from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and r.periodo='12m'  and trabaja='EN DESEMPLEO'
+SELECT count(*) nafct from respuestas r, alumnos a where  r.idalumnofct=a.idalumnofct and r.periodo='12m'  and trabaja='TRABAJA' and relacionado='SI'
+escribiendo fichero ../../../../datos_diciembre19/globales/12m/datos_global.csv
+SELECT t2.grado as 'GRADO',ifnull( ifnull(t3.des,0)/(ifnull(t3.des,0)+ifnull(t2.tra,0))*100,0) as 'DESEMPLEO',ifnull(t2.tra,0)/ifnull((t3.des+t2.tra),1)*100 as 'TRABAJA' from ( select grado,count(*) as tra from respuestas r, alumnos a,ciclos c,centros cen where cen.idcentrofct=a.idcentrofct and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m'  and  trabaja='TRABAJA'   group by grado ) as t2 LEFT JOIN ( select grado,count(*) as des from respuestas r, alumnos a,ciclos c,centros cen where cen.idcentrofct=a.idcentrofct and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m'  and  trabaja='EN DESEMPLEO'   group by grado ) as t3 on t3.grado=t2.grado
+
+UNION ALL
+
+SELECT t2.grado as 'GRADO',ifnull( ifnull(t3.des,0)/(ifnull(t3.des,0)+ifnull(t2.tra,0))*100,0) as 'DESEMPLEO',ifnull(t2.tra,0)/ifnull((t3.des+t2.tra),1)*100 as 'TRABAJA' from ( select grado,count(*) as tra from respuestas r, alumnos a,ciclos c,centros cen where cen.idcentrofct=a.idcentrofct and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m'  and  trabaja='TRABAJA'  and a.idcentrofct='73' group by grado ) as t2 RIGHT JOIN ( select grado,count(*) as des from respuestas r, alumnos a,ciclos c,centros cen where cen.idcentrofct=a.idcentrofct and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m'  and  trabaja='EN DESEMPLEO' and a.idcentrofct='73'  group by grado ) as t3 on t3.grado=t2.grado 
+where t2.grado is null or t3.grado is null
+
+SELECT t2.grado as 'GRADO', t3.rel/t2.tra*100 as 'TRABAJO RELACIONADO' from 
+( select grado,count(*) as tra from respuestas r, alumnos a,ciclos c where c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m' and  trabaja='TRABAJA'  group by grado ) as t2 
+LEFT JOIN 
+( select grado,count(*) as rel from respuestas r, alumnos a,ciclos c where c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m' and trabaja='TRABAJA'  and relacionado='SI' group by grado ) as t3 
+on t2.grado=t3.grado
+SELECT replace(t1.familia,',','') as 'FAMILIA', ifnull(t2.des/(ifnull(t2.des,0)+ifnull(t1.tra,0))*100,0) as 'DESEMPLEOPORFAMILIAS' , ifnull(t1.tra/(ifnull(t1.tra,0)+ifnull(t2.des,0))*100,0)  as 'TRABAJOPORFAMILIAS' from ( select familia,count(*) as tra from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where a.idcentrofct=cen.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m' and  trabaja='TRABAJA'   group by familia) as t1 LEFT JOIN ( select familia,count(*) as des from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where cen.idcentrofct=a.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m' and  trabaja='EN DESEMPLEO'  group by familia) as t2 on t1.familia=t2.familia
+UNION ALL
+SELECT replace(t1.familia,',','') as 'FAMILIA', ifnull(t2.des/(ifnull(t2.des,0)+ifnull(t1.tra,0))*100,0) as 'DESEMPLEOPORFAMILIAS' ,ifnull(t1.tra/(ifnull(t1.tra,0)+ifnull(t2.des,0))*100,0)  as 'TRABAJOPORFAMILIAS' from ( select familia,count(*) as tra from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where a.idcentrofct=cen.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m' and  trabaja='TRABAJA'  group by familia) as t1 RIGHT JOIN ( select familia,count(*) as des from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where cen.idcentrofct=a.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m' and  trabaja='EN DESEMPLEO'  group by familia) as t2 on t1.familia=t2.familia
+where t1.familia is null or t2.familia is null
+
+SELECT replace(t1.familia,',','') as 'FAMILIA',  ifnull( t1.rel/(ifnull(t2.tra,0))*100,0)  as 'TRABAJORELACIONADOPORFAMILIAS' from ( select familia,count(*) as rel from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where a.idcentrofct=cen.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m' and  trabaja='TRABAJA' and relacionado='SI'  group by familia) as t1 LEFT JOIN ( select familia,count(*) as tra from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where cen.idcentrofct=a.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m' and  trabaja='TRABAJA'  group by familia) as t2 on t1.familia=t2.familia
+order by TRABAJORELACIONADOPORFAMILIAS desc
+
+SELECT replace(t1.nombrecentro,',','') as 'CENTRO', t2.des/(t2.des+t1.tra)*100 as 'DESEMPLEOPORCENTROS' , t1.tra/(t1.tra+t2.des)*100 as 'TRABAJOPORCENTROS' from 
+( select nombrecentro,count(*) as tra from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where cen.idcentrofct=a.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m' and  trabaja='TRABAJA' and FCT!='NO' group by a.idcentrofct) as t1
+LEFT JOIN 
+( select nombrecentro,count(*) as des from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where cen.idcentrofct=a.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m' and  trabaja='EN DESEMPLEO' and FCT!='NO' group by cen.idcentrofct) as t2 
+on t1.nombrecentro=t2.nombrecentro 
+and t1.tra is not null
+and t2.des is not null
+order by TRABAJOPORCENTROS desc
+SELECT replace(t1.nombrecentro,',','') as 'CENTRO', t2.rel/(t1.tra)*100 as 'RELACIONADOPORCENTROS'  from 
+( select nombrecentro,a.idcentrofct,count(*) as tra from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where cen.idcentrofct=a.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m' and  trabaja='TRABAJA' group by a.idcentrofct) as t1
+LEFT JOIN 
+( select nombrecentro,a.idcentrofct,count(*) as rel from respuestas r, alumnos a,ciclos c,ciclos_familias cfa,centros cen where cen.idcentrofct=a.idcentrofct and c.codciclo=cfa.codciclo and c.idciclofct=a.idciclofct and  r.idalumnofct=a.idalumnofct and  r.periodo='12m' and  trabaja='TRABAJA'  and relacionado='SI' group by a.idcentrofct) as t2 
+on t1.idcentrofct=t2.idcentrofct 
+and t1.tra is not null
+and t2.rel is not null
+order by RELACIONADOPORCENTROS desc

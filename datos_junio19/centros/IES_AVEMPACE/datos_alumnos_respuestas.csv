@@ -1,0 +1,94 @@
+"fecha fct","nombre","primer_apellido","segundo apellido","telefono","email","codigo ciclo","denominacion ciclo","provincia","grado","fct","trabaja","relacionado con el estudio","tipo de contrato","misma empresa"
+"jun18","MARÍA","BARRERAS","CAMPILLOS","659655930","MARIABARRERASCAMPILLOS@GMAIL.COM","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NO"
+"jun18","ALEXANDRA","ALIAS","PALACIOS","976125680","","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","NO","FIJO","NSNC"
+"jun18","SILVIA","GRACIA","GALLEGO","649928968","SILVIAGRACIA19@GMAIL.COM","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"jun18","JESICA","LOPEZ ","DENIZ","622627270","JESILODE@GMAIL.COM","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","CARMEN","JARABO","MERINO","978831279","CARMENJARABO@GMAIL.COM","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","ANA BELEN","ANDRÉS ","RUTIA","605640748","ANABELEN39@OUTLOOK.COM","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","NSNC","FIJO","NO"
+"jun18","ROXANA","ELENA","CRISTEA","634838088","ROCSANA262@HOTMAIL.COM","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","EXENTO","EN DESEMPLEO",\N,\N,\N
+"jun18","LAURA","VICENTE","VILLAR","651391040","","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","SARA","RAMOS","RIOS","656928497","SARABI_ZGZ@HOTMAIL.COM","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"jun18","MARTA","LIARTE","CALVO","686044337","","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","NATALIA","FERRERO","TEJERO","679393490","","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","NO","FIJO","NSNC"
+"jun18","ANA","VALDECANTOS","MIGUELÁÑEZ","616581487","","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","SUSANA","PERALTA","ROYO","","","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","JORGE","CIDRAQUE","LAFUENTE","976572457","JCIDRAQUE96@GMAIL.COM","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","EVA","ELICECHE","LEÓN","948411343","E.ELICECHE@GMAIL.COM","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR","SI","TRABAJA","NO","FIJO","NO"
+"jun18","SILVIA","FERNÁNDEZ ","AURED","650062936","XENRA@HOTMAIL.COM","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR","SI","TRABAJA","NO","FIJO","NO"
+"jun18","LAURA","GONZÁLEZ","DELGADO","976740307","SIMPLEMENTESESIENTE@HOTMAIL.ES","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","ELENA","DE ÁVILA","GONZÁLEZ","976438999","elenadeavila14@gmail.com","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","INÉS","GRACIA","BOLSA","640068909","INES.G.RAMONE@GMAIL.COM","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","NEREA","MARÍN","HERNÁNDEZ","976319290","nereaveintitres@hotmail.com","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","MARTA","MONTAÑÉS","ALBERO","976168439","MARTAMONTALBERO@GMAIL.COM","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun18","CAROLINA","MONTES","SANZ","608400323","CAROLAMON10@HOTMAIL.ES","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","Mª PILAR","MORALES","TENA","976561249","PILIMORALESTENA@GMAIL.COM","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","ROCÍO","REDRADO","VELÁZQUEZ","976253834","rocioredradovelazquez@gmail.com","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","MIRIAM","SÁNCHEZ","ORÚS","976680310","miri.sanchez.orus.g98@gmail.com","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","SARA","PORTERO","CLAVERO","976513666","SARAPORTEROCL@GMAIL.COM","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","CRISTINA","SANAGUSTÍN","PELEGRÍN","605494859","C.SANAGUSTIN.P@GMAIL.COM","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"dic18","Teresa","Tenías","","665266175","TETEBIOTA@GMAIL.COM","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","CRISTINA","ALARCÓN","LAGUARDIA","675445100","CRISTINA.ALARCON91@GMAIL.COM","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"dic18","SILVIA","GARCÍA","ARAGONÉS","","","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","VANESA","RUIZ","PINTO","","","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","LORENA","JIMÉNEZ","ANTEQUERA","","","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","SONSOLES ISABEL","JIMÉNEZ","LAYUNTA","","","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","NOEMÍ","LÓPEZ","TELLO","","","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","SUSANA","GIL","CALVO-MANZANO","","","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","MARTA","ABADIA","FERNANDEZ","976922423","martaaefe@gmail.com","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","AINHOA","BLAZQUEZ","BASURTO","611421862","ainhochi22@hotmail.com","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"dic18","SARA","BRIZ","RAMOS","692232694","sarabriz2511@gmail.com","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","SILVIA","VIGIL","ALQUEZAR","976519545","silviagilalquezar@hotmail.com","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR","SI","TRABAJA","SI","FIJO","NO"
+"dic18","PAULA","MORALEJA","FRANCO","976750913","pmoralejaf.cda@gmail.com","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","Belén","Cansado","Jerez","976516766","belenchi_98@hotmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Adrián Agustín","Casanova","Báguena","635148344","adrianagustinc@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"jun18","Sheila","Cavero","González","976105636","sheilaburgo@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","Alba","Chueca","López","976741616","albachueca2@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Miren","Garde","Ramírez","676420946","gardemiren@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Daniela","Gil","Enguid","976887341","danigil_18calata@hotmail.es","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","Victoria Eugenia","Giménez","Pérez","876043210","vickygimenep@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Guillermo","Gimeno","Javierre","976516777","guille.ggj@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Alejandro","Izaga","Pardo","976732266","alejandroizagapardo@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Inmaculada","Jurado","Bernier","976786536","inmajuber@gmail.es","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"jun18","Andrea","Lorente","Alonso","609521418","andrelorentealonso@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","Víctor","Macarrilla","Garcés","976787434","m.aka6@hotmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","TRABAJA","NO","OTRO","NO"
+"jun18","Tatiana","Moreno","Rodriguez","645339221","tatimoreno95@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","TRABAJA","NO","OTRO","NO"
+"jun18","Laura","Nieto","Barra","976380668","lnietob85@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","Olimpia","Pelacho","Andrade","976595876","olimpiapelacho@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","TRABAJA","NO","OTRO","SI"
+"jun18","Yaiza","Pérez","Logroño","976535823","yperezlogrono@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","TRABAJA","SI","FIJO","SI"
+"jun18","Laura Pilar","Royo","Bueno","976422118","lauriita.royo_zgz@hotmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Isabel","Sanz","Laso","976064756","islaso21@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","María Teresa","Sierra","Clavel","976108774","teresasierra95@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","TRABAJA","NO","OTRO","SI"
+"jun18","Marta","Solanas","Casanova","976295357","martagym6@hotmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","Raquel","Vela","Sánchez","976825215","raquelvelasanchez@hotmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Carlos","Villegas","Pérez","673235395","carlosvipe93@hotmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","SI","TRABAJA","NO","OTRO","SI"
+"jun18","Elisa","Alcuaz","Ardanaz","695816407","elisaalcuazardanaz@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","NSNC"
+"jun18","Maria","Alegre","Gracia","679366952","mariaalegre92@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","NO","OTRO","SI"
+"jun18","LAURA","ARCOS","GARCIA","687249775","arcoslaura06@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Miriam","Borque","Miana","976570904","mirilumpi@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Marta","Carballo","Pérez","976733096","martacarballo98@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Celia","Esteban","Sánchez","976471334","celiamoti@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"jun18","Lucía","García","del Castillo","689312359","luciagarciadc@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","SI","FIJO","SI"
+"jun18","Patricia","Genzor","Gracia","976393790","patrigenzor@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","NO","OTRO","SI"
+"jun18","Cindy Pamela","González","Briones","696350284","cindygobri@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Claudia","Herrero","Puyol","976547334","claudia-girl94@hotmail.es","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","Sofia","Ibañez","Gomez","618957306","sofiazgz@hotmail.es","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","SILVIA","JAIME","ROYO","976523346","silj1719@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Lorena","Lapuente","Bermejo","601218474","lore_labe.98@hotmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun18","Ana Cristina","López","Martínez","628461297","annalopez313@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","NO","FIJO","NO"
+"jun18","Elena","Maroto","Malumbres","976651897","elenamarotomalumbres@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Patricia","Méndez","Monzón","684097362","patriimz@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","Carolina","Muniente","Serrano","633694787","carolamuni@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","NO","FIJO","NO"
+"jun18","Laura","Muñoz","Escuín","978756639","lauraescucha4@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Andrea","Muñoz","Lancina","976293079","pikulina98@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","NO","OTRO","SI"
+"jun18","Andrea","Orce","Vallespín","691617430","orce.andrea@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","NO","OTRO","SI"
+"jun18","Sara","Pérez","López","976738556","saara_perez@hotmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Ana","Picazo","Fernández","976399187","anapicachin@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun18","Ana Elisabet","Román","Giménez","976526919","aelisabetroman@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","NO","FIJO","NO"
+"jun18","Clara","Ruiz","Marco","627353080","cantalobosruma@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","TRABAJA","NO","OTRO","NO"
+"jun18","Paula","Solanas","Marcos","976471155","paulasolanas55@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Gemma","Trasmonte","Moro","976593848","gemmatrasmonte@gmail.com","SSC302","EDUCACIÓN INFANTIL","50","SUPERIOR","SI","ESTUDIA",\N,\N,\N
+"jun18","Ana Isabel","Biot","Talabante","670396750","anabiot@hotmail.com","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","Estefanía","García","Granado","976583128","fannygarciagranado@gmail.com","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","Nuria","Lanaspa","Bescós","626389098","nurialanaspa@hotmail.com","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","Estela Pilar","Macipe","Abad","976628022","estelamacipe@hotmail.com","SSC305","PROMOCIÓN DE IGUALDAD DE GÉNERO","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","Fabian ",\N,\N,"876165064","fagabt@gmail.com","SSC301","ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA","50","SUPERIOR","EXENTO","EN DESEMPLEO",\N,\N,\N

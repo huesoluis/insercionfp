@@ -1,0 +1,59 @@
+"fecha fct","nombre","primer_apellido","segundo apellido","telefono","email","codigo ciclo","denominacion ciclo","provincia","grado","fct","trabaja","relacionado con el estudio","tipo de contrato","misma empresa"
+"dic18","Joaquín","Almau","García","","","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR",\N,\N,\N,\N,\N
+"dic18","ANTONIO","LATORRE","CUNCHILLOS","636228173","antoniolatorre2011@hotmail.com","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"dic18","NOELIA","VELÁZQUEZ","WILLMEK","976615499","NOE2001@LIVE.COM","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"dic18","SAMUEL","GASPAR","BARCELONA","648719908","SAMUELCHIMEGRSN@HOTMAIL.COM","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"dic18","LUCAS","SANCHO","Giménez","639393327","LUKASMACHIN@GMAIL.COM","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO","SI","TRABAJA","SI","OTRO","NO"
+"dic18","NEREA","AGUILAR","LORENTE","659778782","NEREA10ZGZ@GMAIL.COM","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","TRABAJA","NO","NSNC","NSNC"
+"dic18","AITOR","MAGDALENA","ECHEGOYEN","608379461","AMAGDALENA.SIGLOXXI@GMAIL.COM","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","TRABAJA","SI","OTRO","NSNC"
+"dic18","JULIA","GONZÁLEZ","GONZALO","638391912","JUGONZALEZ.SIGLOXXI@GMAIL.COM","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","TRABAJA","SI","OTRO","NSNC"
+"dic18","LEANDRO","ORIOLI","NAKAZONO","627827885","ORIOLI425@GMAIL.COM","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","TRABAJA","SI","OTRO","NSNC"
+"dic18","ALEJANDRA","ÁLVAREZ","LAMUELA","664885797","ALEJANDRICA97@GMAIL.COM","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","TRABAJA","SI","OTRO","NSNC"
+"jun18","Ana","Garrido","Alierta","","ANAGARRIDO0608@GMAIL.COM","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","TRABAJA","SI","OTRO","NSNC"
+"jun18","Cristina","Ibáñez","Stojakovic","651028624","CRISTINABARBOLES@GMAIL.COM","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun18","Elora-Daiana","Merla","","642402469","ELORA.DAIANA@GMAIL.COM","ADG201","GESTION ADMINISTRATIVA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun18","Alejandro","Escudero","Lainez","693407255","ALEJANDROELRB@GMAIL.COM","ELE202","INSTALACIONES ELÉCTRICAS Y AUTOMÁTICAS","50","MEDIO",\N,\N,\N,\N,\N
+"jun18","Jorge","Espeleta","Baurre","628530254","JORGEESPELATABAURRE@GMIL.COM","ELE202","INSTALACIONES ELÉCTRICAS Y AUTOMÁTICAS","50","MEDIO",\N,\N,\N,\N,\N
+"jun18","Jesús","Solsona","Valero","664683893","GUXUS2000@GMAIL.COM","ELE202","INSTALACIONES ELÉCTRICAS Y AUTOMÁTICAS","50","MEDIO",\N,\N,\N,\N,\N
+"jun18","Manuel","Zalaya","Cruz","638484266","MANAZAYACRUZ@GMAIL.COM","ELE202","INSTALACIONES ELÉCTRICAS Y AUTOMÁTICAS","50","MEDIO",\N,\N,\N,\N,\N
+"jun18","Rocío","Corchado","Sepúlveda","698323521","r.corchadosepulveda@hotmail.com","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA",\N,\N,\N,\N,\N
+"jun18","Andreas","González","Gaspar","606145549","andreasgg00@gmail.com","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA",\N,\N,\N,\N,\N
+"jun18","Mónica","Molina","Bretones","976652353","monica_molina-boky@hotmail.com","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA",\N,\N,\N,\N,\N
+"jun18","Daniel","Royo","Vicente","634585002","danirok169@gmail.com","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA",\N,\N,\N,\N,\N
+"jun18","Víctor","Tovar","Logroño","607465565","victortovarlogro@hotmail.com","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA",\N,\N,\N,\N,\N
+"jun18","Marta","Victoria","De la torre","667514697","","FPB101","SERVICIOS ADMINISTRATIVOS","50","BASICA",\N,\N,\N,\N,\N
+"jun18","Sergio","Chica","Gracia","658029121","ana.tauste@hotmail.com","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun18","Sergio","García","Bueno","663598848","olepedrola@gmail.com","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun18","José Jerónimo","Gracia","Azcona","608091124","jerominpozuelo@gmail.com","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun18","Smail","Hammaoui","","664423116","hammaoui998@gmail.com","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","TRABAJA","SI","OTRO","SI"
+"jun18","Luis Enrique","Jiménez","Mateo","636047010","","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","TRABAJA","NO","OTRO","NO"
+"jun18","Amar","Melki","","631393428","amarmelki0@gmail.com","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","ESTUDIA",\N,\N,\N
+"jun18","Paul","Sinués","López","669791848","paulsinuesdiez@hotmail.com","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","TRABAJA","NO","OTRO","NO"
+"jun18","Tomás","Torres","Silva","661855768","tomastorres25@hotmail.com","FPB106","MANTENIMIENTO DE VEHÍCULOS","50","BASICA","SI","TRABAJA","NO","OTRO","NO"
+"jun18","Néstor","Barrios","Anguas","673468446","nestor.brr.ang@gmail.com","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun18","Adrián","Bernabé","Urzay","620133618","adrianbernabe1@gmail.com","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO","SI","TRABAJA","SI","OTRO","SI"
+"jun18","Adrián","Carrasco","Moraz","629990244","carrascomagallon98@gmail.com","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO","SI","EN DESEMPLEO",\N,\N,\N
+"jun18","Héctor","Gil","Lires","654624391","hglpinseke@gmail.com","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun18","José Manuel","Millán","Díez","663169428","millan.brb@gmail.com","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO","SI","TRABAJA","SI","OTRO","SI"
+"jun18","Diego","Navascues","Casado","661689594","navascues1742000@gmail.com","IMA201","MANTENIMIENTO ELECTROMECÁNICO","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun18","Saúl","Bellé","Arjol","625881579","saulbelle@hotmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR",\N,\N,\N,\N,\N
+"jun18","Jorge","Clavería","Giménez","692899823","jorge_pradillano@hotmail.es","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","NO","OTRO","NO"
+"jun18","Eloy","García","Cerrada","627884508","eloyalagon107@gmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun18","Orencio","Loza","Escolano","675532080","orenloza@hotmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun18","David","Moreno","Manzano","675495339","david_alagon_96@hotmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun18","Modesto","Moros","Castiñeiras","665451649","modes97alagon@gmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun18","Noemí","Oliveros","Casamián","687354145","oliverosnoemi@gmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","NSNC",\N,\N,\N
+"jun18","Rubén","Pardos","Ibáñez","626701000","rubenalagon93@gmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","FIJO","SI"
+"jun18","Miguel Ángel","Pérez","Pérez","660953388","miguel.perez.perez.82@gmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","FIJO","NO"
+"jun18","Jesús","Ramón","Samper","657991016","mjsa213@hotmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","OTRO","SI"
+"jun18","Óscar","Ruiz","García","660602492","oscarfuendejalon@gmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","EN DESEMPLEO",\N,\N,\N
+"jun18","Andrés","Serrano","Modrego","685426530","andres_figueruelas@hotmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","NO","OTRO","NO"
+"jun18","Juan Carlos","Villalba","Cotela","625672617","zaracarlos@hotmail.com","IMA302","MECATRÓNICA INDUSTRIAL","50","SUPERIOR","SI","TRABAJA","SI","FIJO","SI"
+"jun18","Daniel","Belsué","Navarro","659902740","daniel_gallur22@hotmail.com","TMV201","CARROCERÍA","50","MEDIO","SI","TRABAJA","NO","OTRO","NO"
+"jun18","Othman","Bouzkri","","631874013","ahmany85@gmail.com","TMV201","CARROCERÍA","50","MEDIO","SI","TRABAJA","SI","OTRO","SI"
+"jun18","Ionel Adrián","Cucu","","642917818","adriancucu@hotmail.com","TMV201","CARROCERÍA","50","MEDIO","SI","TRABAJA","SI","OTRO","SI"
+"jun18","Achraf","Jamili","","976854020","achrafjamili@iesrioarba.es","TMV201","CARROCERÍA","50","MEDIO","SI","NSNC",\N,\N,\N
+"jun18","Francisco","López","Correas","656719823","fran12_mallen@hotmail.com","TMV201","CARROCERÍA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
+"jun18","Ignacio","Pallarés","Bernad","666589394","nacho98_remolinos@hotmail.com","TMV201","CARROCERÍA","50","MEDIO","SI","NSNC",\N,\N,\N
+"jun18","Iván","Pascual","Espelt","976850549","ivanpascual97@gmail.com","TMV201","CARROCERÍA","50","MEDIO","SI","TRABAJA","SI","OTRO","SI"
+"jun18","Joel Eduardo","Sánchez","Changuán","652735386","joselo123028@gmail.com","TMV201","CARROCERÍA","50","MEDIO","SI","ESTUDIA",\N,\N,\N
